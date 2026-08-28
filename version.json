@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.2/world_seeker_1.0.2.apk",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.3/world_seeker_1.0.3.apk",
   "notas": "Mapa sin la marca de agua API KEY REQUIRED",
   "obligatoria": false
 }
