@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.4/world_seeker_1.0.4.apk",
-  "notas": "Mapa claro y colorido, legible a pleno sol, con rastro de alto contraste",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.5/world_seeker_1.0.5.apk",
+  "notas": "Arreglado el porcentaje dominado y quitadas las aceras duplicadas del mapa",
   "obligatoria": false
 }
