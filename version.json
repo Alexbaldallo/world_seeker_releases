@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.5/world_seeker_1.0.5.apk",
-  "notas": "Arreglado el porcentaje dominado y quitadas las aceras duplicadas del mapa",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.6/world_seeker_1.0.6.apk",
+  "notas": "Arreglado de raiz el porcentaje dominado atascado en 0.00%",
   "obligatoria": false
 }
