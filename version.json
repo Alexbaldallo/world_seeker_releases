@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.14/world_seeker_1.0.14.apk",
-  "notas": "Ciudades solo al caminarlas, agrupadas por provincia y filtro de vehiculo",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.15/world_seeker_1.0.15.apk",
+  "notas": "Al viajar a una ciudad de la coleccion se muestra su nombre y su progreso",
   "obligatoria": false
 }
