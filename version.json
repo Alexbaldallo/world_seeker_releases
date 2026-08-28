@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.8/world_seeker_1.0.8.apk",
-  "notas": "Los iconos y fotos del mapa se mantienen verticales al girar el mapa",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.9/world_seeker_1.0.9.apk",
+  "notas": "Corregido el porcentaje inflado en ciudades con datos antiguos erroneos",
   "obligatoria": false
 }
