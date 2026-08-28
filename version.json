@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.7/world_seeker_1.0.7.apk",
-  "notas": "El porcentaje dominado ya no depende de Overpass: aparece al instante",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.8/world_seeker_1.0.8.apk",
+  "notas": "Los iconos y fotos del mapa se mantienen verticales al girar el mapa",
   "obligatoria": false
 }
