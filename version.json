@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.12/world_seeker_1.0.12.apk",
-  "notas": "Varias fotos por sitio, borrado de recuerdos y diagnostico real de Drive",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.13/world_seeker_1.0.13.apk",
+  "notas": "Icono de la app en Android e iOS",
   "obligatoria": false
 }
