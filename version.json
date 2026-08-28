@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.1/world_seeker_1.0.1.apk",
+  "notas": "Mapa fluido al alejar el zoom, rastro sin superposiciones y actualizaciones automaticas",
+  "obligatoria": false
+}
