@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.1.1/world_seeker_1.1.1.apk",
-  "notas": "Quitado el boton de conectar Drive (ya funciona por defecto)",
+  "versionCode": 20,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.2.0/world_seeker_1.2.0.apk",
+  "notas": "Historial sin limite: el rastro se guarda por bloques y deja de truncarse",
   "obligatoria": false
 }
