@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.6.0/world_seeker_1.6.0.apk",
-  "notas": "Los lugares de interes pasan a venir de Wikipedia en vez de Overpass",
+  "versionCode": 30,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.7.0/world_seeker_1.7.0.apk",
+  "notas": "Relevancia real por visitas y fotos vinculadas a cada monumento",
   "obligatoria": false
 }
