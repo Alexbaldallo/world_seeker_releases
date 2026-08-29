@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.0.0/world_seeker_2.0.0.apk",
-  "notas": "Identificador definitivo com.alexbaldallo.worldseeker",
+  "versionCode": 34,
+  "versionName": "2.0.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.0.1/world_seeker_2.0.1.apk",
+  "notas": "Mucho menos consumo de bateria",
   "obligatoria": false
 }
