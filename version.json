@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.0.16/world_seeker_1.0.16.apk",
-  "notas": "Las ciudades borradas de la coleccion ya no reaparecen",
+  "versionCode": 18,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.1.0/world_seeker_1.1.0.apk",
+  "notas": "fix: error de tipos que impedia compilar las misiones",
   "obligatoria": false
 }
