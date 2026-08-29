@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.4.0/world_seeker_2.4.0.apk",
-  "notas": "Animacion de conquista al encender un pais por primera vez",
+  "versionCode": 40,
+  "versionName": "2.4.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.4.1/world_seeker_2.4.1.apk",
+  "notas": "Las fotos de monumento ya no duplican icono, y la foto de la ficha se abre",
   "obligatoria": false
 }
