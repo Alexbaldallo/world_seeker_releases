@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.1.0/world_seeker_1.1.0.apk",
-  "notas": "fix: error de tipos que impedia compilar las misiones",
+  "versionCode": 19,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.1.1/world_seeker_1.1.1.apk",
+  "notas": "Quitado el boton de conectar Drive (ya funciona por defecto)",
   "obligatoria": false
 }
