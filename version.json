@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.2.1/world_seeker_1.2.1.apk",
-  "notas": "Catalogo compartido de ciudades: el tamano de cada municipio se calcula una vez",
+  "versionCode": 22,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.3.0/world_seeker_1.3.0.apk",
+  "notas": "Boton de Google Maps en los puntos y XP protegido contra falsificacion",
   "obligatoria": false
 }
