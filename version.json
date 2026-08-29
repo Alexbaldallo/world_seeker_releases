@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.3.2/world_seeker_1.3.2.apk",
-  "notas": "La notificacion de segundo plano ya aparece: faltaba POST_NOTIFICATIONS",
+  "versionCode": 25,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.4.0/world_seeker_1.4.0.apk",
+  "notas": "Solo los lugares de interes mas destacados, en vez de todos",
   "obligatoria": false
 }
