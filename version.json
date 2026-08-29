@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "2.3.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.3.0/world_seeker_2.3.0.apk",
-  "notas": "MI MUNDO rehecho: mapamundi de paises tipo rasca y descubre",
+  "versionCode": 38,
+  "versionName": "2.3.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.3.1/world_seeker_2.3.1.apk",
+  "notas": "El mapamundi ocupa todo el alto y se recorre en horizontal",
   "obligatoria": false
 }
