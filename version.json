@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.2.0/world_seeker_1.2.0.apk",
-  "notas": "Historial sin limite: el rastro se guarda por bloques y deja de truncarse",
+  "versionCode": 21,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.2.1/world_seeker_1.2.1.apk",
+  "notas": "Catalogo compartido de ciudades: el tamano de cada municipio se calcula una vez",
   "obligatoria": false
 }
