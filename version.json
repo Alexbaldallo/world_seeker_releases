@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.7.0/world_seeker_1.7.0.apk",
-  "notas": "Relevancia real por visitas y fotos vinculadas a cada monumento",
+  "versionCode": 31,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.8.0/world_seeker_1.8.0.apk",
+  "notas": "Rediseno visual de los lugares de interes: chincheta e identidad por tipo",
   "obligatoria": false
 }
