@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.5.0/world_seeker_1.5.0.apk",
-  "notas": "Quitadas las calles grises y anadido diagnostico del servidor de mapas",
+  "versionCode": 28,
+  "versionName": "1.5.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.5.1/world_seeker_1.5.1.apk",
+  "notas": "Lugares de interes: servidores actualizados y cache compartida en la nube",
   "obligatoria": false
 }
