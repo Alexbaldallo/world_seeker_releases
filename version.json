@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.5.1/world_seeker_1.5.1.apk",
-  "notas": "Lugares de interes: servidores actualizados y cache compartida en la nube",
+  "versionCode": 29,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.6.0/world_seeker_1.6.0.apk",
+  "notas": "Los lugares de interes pasan a venir de Wikipedia en vez de Overpass",
   "obligatoria": false
 }
