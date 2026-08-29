@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.3.1/world_seeker_1.3.1.apk",
-  "notas": "Arreglada la pantalla negra al salir y anadida la opcion de segundo plano",
+  "versionCode": 24,
+  "versionName": "1.3.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.3.2/world_seeker_1.3.2.apk",
+  "notas": "La notificacion de segundo plano ya aparece: faltaba POST_NOTIFICATIONS",
   "obligatoria": false
 }
