@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.4.0/world_seeker_1.4.0.apk",
-  "notas": "Solo los lugares de interes mas destacados, en vez de todos",
+  "versionCode": 26,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v1.4.1/world_seeker_1.4.1.apk",
+  "notas": "Los lugares de interes vuelven a aparecer: la consulta se descartaba por tiempo",
   "obligatoria": false
 }
