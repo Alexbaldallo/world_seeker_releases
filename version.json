@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.0.1/world_seeker_2.0.1.apk",
-  "notas": "Mucho menos consumo de bateria",
+  "versionCode": 35,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.1.0/world_seeker_2.1.0.apk",
+  "notas": "Rendimiento y escalabilidad: el coste deja de crecer con el historial",
   "obligatoria": false
 }
