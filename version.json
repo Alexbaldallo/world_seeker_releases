@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "2.5.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.5.1/world_seeker_2.5.1.apk",
-  "notas": "El album se ordena por sitios, en desplegables y con acciones claras",
+  "versionCode": 43,
+  "versionName": "2.6.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.0/world_seeker_2.6.0.apk",
+  "notas": "Avisos de lugares cercanos, presentacion inicial y aviso de vehiculo",
   "obligatoria": false
 }
