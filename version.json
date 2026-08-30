@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "2.5.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.5.0/world_seeker_2.5.0.apk",
-  "notas": "Album de viaje y pasaporte: los recuerdos, en orden y sellados",
+  "versionCode": 42,
+  "versionName": "2.5.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.5.1/world_seeker_2.5.1.apk",
+  "notas": "El album se ordena por sitios, en desplegables y con acciones claras",
   "obligatoria": false
 }
