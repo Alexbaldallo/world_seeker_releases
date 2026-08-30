@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "2.4.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.4.1/world_seeker_2.4.1.apk",
-  "notas": "Las fotos de monumento ya no duplican icono, y la foto de la ficha se abre",
+  "versionCode": 41,
+  "versionName": "2.5.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.5.0/world_seeker_2.5.0.apk",
+  "notas": "Album de viaje y pasaporte: los recuerdos, en orden y sellados",
   "obligatoria": false
 }
