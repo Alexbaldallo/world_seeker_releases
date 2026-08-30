@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "2.6.3",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.3/world_seeker_2.6.3.apk",
-  "notas": "El filtro de vehiculo ahora tiene memoria: se acabaron los trozos sueltos",
+  "versionCode": 47,
+  "versionName": "2.6.4",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.4/world_seeker_2.6.4.apk",
+  "notas": "El punto ya no se queda clavado al ir en un vehiculo",
   "obligatoria": false
 }
