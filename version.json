@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "2.6.4",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.4/world_seeker_2.6.4.apk",
-  "notas": "El punto ya no se queda clavado al ir en un vehiculo",
+  "versionCode": 48,
+  "versionName": "2.7.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.7.0/world_seeker_2.7.0.apk",
+  "notas": "El pasaporte sella toda ciudad pisada, no solo las que dan medalla",
   "obligatoria": false
 }
