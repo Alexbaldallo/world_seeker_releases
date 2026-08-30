@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2.6.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.0/world_seeker_2.6.0.apk",
-  "notas": "Avisos de lugares cercanos, presentacion inicial y aviso de vehiculo",
+  "versionCode": 44,
+  "versionName": "2.6.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.1/world_seeker_2.6.1.apk",
+  "notas": "Arreglado: los pueblos por los que pasabas entraban en la coleccion",
   "obligatoria": false
 }
