@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "2.6.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.2/world_seeker_2.6.2.apk",
-  "notas": "Prueba de avisos de cercania y radio mas amplio",
+  "versionCode": 46,
+  "versionName": "2.6.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.6.3/world_seeker_2.6.3.apk",
+  "notas": "El filtro de vehiculo ahora tiene memoria: se acabaron los trozos sueltos",
   "obligatoria": false
 }
