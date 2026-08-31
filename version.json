@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "2.8.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.8.0/world_seeker_2.8.0.apk",
-  "notas": "Algoritmo de relevancia: pruebas de que el sitio merece la visita",
+  "versionCode": 51,
+  "versionName": "2.8.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.8.1/world_seeker_2.8.1.apk",
+  "notas": "Los sitios de interes dejan de desaparecer: la lista se acumula",
   "obligatoria": false
 }
