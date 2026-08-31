@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "2.7.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.7.0/world_seeker_2.7.0.apk",
-  "notas": "El pasaporte sella toda ciudad pisada, no solo las que dan medalla",
+  "versionCode": 49,
+  "versionName": "2.7.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.7.1/world_seeker_2.7.1.apk",
+  "notas": "Fuera las estaciones de metro y demas infraestructura del mapa",
   "obligatoria": false
 }
