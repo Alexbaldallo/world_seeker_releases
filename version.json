@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "2.7.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.7.1/world_seeker_2.7.1.apk",
-  "notas": "Fuera las estaciones de metro y demas infraestructura del mapa",
+  "versionCode": 50,
+  "versionName": "2.8.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.8.0/world_seeker_2.8.0.apk",
+  "notas": "Algoritmo de relevancia: pruebas de que el sitio merece la visita",
   "obligatoria": false
 }
