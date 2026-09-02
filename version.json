@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "2.10.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.10.0/world_seeker_2.10.0.apk",
-  "notas": "Ciudad mirada en el HUD con sus lugares, variedad en la seleccion y menos bateria",
+  "versionCode": 54,
+  "versionName": "2.11.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.11.0/world_seeker_2.11.0.apk",
+  "notas": "Arreglo en bloque: privacidad, trampas, migracion, misiones y varios",
   "obligatoria": false
 }
