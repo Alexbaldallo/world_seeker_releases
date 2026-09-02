@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "2.9.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.9.0/world_seeker_2.9.0.apk",
-  "notas": "Cupo de lugares segun la ciudad, y experiencia segun la importancia",
+  "versionCode": 53,
+  "versionName": "2.10.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.10.0/world_seeker_2.10.0.apk",
+  "notas": "Ciudad mirada en el HUD con sus lugares, variedad en la seleccion y menos bateria",
   "obligatoria": false
 }
