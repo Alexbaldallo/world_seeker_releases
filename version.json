@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "2.12.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.12.0/world_seeker_2.12.0.apk",
-  "notas": "Lugares: radio de 8 km, los monumentos suben y las instituciones bajan",
+  "versionCode": 57,
+  "versionName": "2.12.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.12.1/world_seeker_2.12.1.apk",
+  "notas": "La categoria de un lugar ya no cambia segun de donde venga la carga",
   "obligatoria": false
 }
