@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "2.13.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.1/world_seeker_2.13.1.apk",
-  "notas": "Vuelta al mapa anterior: fuera el territorio conquistado",
+  "versionCode": 60,
+  "versionName": "2.13.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.2/world_seeker_2.13.2.apk",
+  "notas": "Ya no sale \"Desconocido\" al volver de otra pantalla",
   "obligatoria": false
 }
