@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "2.16.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.16.0/world_seeker_2.16.0.apk",
-  "notas": "El fallo de fondo: solo se miraban 10 sitios de cada 100",
+  "versionCode": 65,
+  "versionName": "2.16.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.16.1/world_seeker_2.16.1.apk",
+  "notas": "Se acabaron los lugares repetidos: se comparan por posicion, no por nombre",
   "obligatoria": false
 }
