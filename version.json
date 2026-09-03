@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "2.16.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.16.1/world_seeker_2.16.1.apk",
-  "notas": "Se acabaron los lugares repetidos: se comparan por posicion, no por nombre",
+  "versionCode": 66,
+  "versionName": "2.17.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.17.0/world_seeker_2.17.0.apk",
+  "notas": "Categorias fijas para todos: una joya por ciudad, joyas historicas y las Siete Maravillas",
   "obligatoria": false
 }
