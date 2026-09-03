@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "2.15.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.15.1/world_seeker_2.15.1.apk",
-  "notas": "Overpass en paralelo, filtro menos estricto y el informe dice que descarta",
+  "versionCode": 64,
+  "versionName": "2.16.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.16.0/world_seeker_2.16.0.apk",
+  "notas": "El fallo de fondo: solo se miraban 10 sitios de cada 100",
   "obligatoria": false
 }
