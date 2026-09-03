@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "2.12.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.12.1/world_seeker_2.12.1.apk",
-  "notas": "La categoria de un lugar ya no cambia segun de donde venga la carga",
+  "versionCode": 58,
+  "versionName": "2.13.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.0/world_seeker_2.13.0.apk",
+  "notas": "Territorio conquistado: la superficie que es tuya, y a media luz lo que no",
   "obligatoria": false
 }
