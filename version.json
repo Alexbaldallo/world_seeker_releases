@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "2.15.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.15.0/world_seeker_2.15.0.apk",
-  "notas": "Los detalles dejan de depender de Overpass, y todo se ve desde mas lejos",
+  "versionCode": 63,
+  "versionName": "2.15.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.15.1/world_seeker_2.15.1.apk",
+  "notas": "Overpass en paralelo, filtro menos estricto y el informe dice que descarta",
   "obligatoria": false
 }
