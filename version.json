@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "2.18.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.18.1/world_seeker_2.18.1.apk",
-  "notas": "El mapa se quedo sin lugares en la 2.18.0: el tamano llegaba como texto",
+  "versionCode": 70,
+  "versionName": "2.19.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.19.0/world_seeker_2.19.0.apk",
+  "notas": "El album de cromos de cada ciudad: una lista cerrada que completar",
   "obligatoria": false
 }
