@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "2.13.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.0/world_seeker_2.13.0.apk",
-  "notas": "Territorio conquistado: la superficie que es tuya, y a media luz lo que no",
+  "versionCode": 59,
+  "versionName": "2.13.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.1/world_seeker_2.13.1.apk",
+  "notas": "Vuelta al mapa anterior: fuera el territorio conquistado",
   "obligatoria": false
 }
