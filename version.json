@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "2.13.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.13.2/world_seeker_2.13.2.apk",
-  "notas": "Ya no sale \"Desconocido\" al volver de otra pantalla",
+  "versionCode": 61,
+  "versionName": "2.14.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.14.0/world_seeker_2.14.0.apk",
+  "notas": "Los detalles de la ciudad, y saber que es este sitio",
   "obligatoria": false
 }
