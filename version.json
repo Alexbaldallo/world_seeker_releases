@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "2.19.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.19.0/world_seeker_2.19.0.apk",
-  "notas": "El album de cromos de cada ciudad: una lista cerrada que completar",
+  "versionCode": 71,
+  "versionName": "2.20.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.20.0/world_seeker_2.20.0.apk",
+  "notas": "Los cromos llevan la foto real del lugar y su silueta, sin IA",
   "obligatoria": false
 }
