@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "2.21.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.21.1/world_seeker_2.21.1.apk",
-  "notas": "Arreglo del empaquetado: el color del fondo del icono habia desaparecido",
+  "versionCode": 75,
+  "versionName": "2.21.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.21.2/world_seeker_2.21.2.apk",
+  "notas": "Una sola pantalla de carga al abrir la app",
   "obligatoria": false
 }
