@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "2.20.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.20.0/world_seeker_2.20.0.apk",
-  "notas": "Los cromos llevan la foto real del lugar y su silueta, sin IA",
+  "versionCode": 72,
+  "versionName": "2.20.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.20.1/world_seeker_2.20.1.apk",
+  "notas": "Fuera la pestaña de trofeos: con los cromos era redundante",
   "obligatoria": false
 }
