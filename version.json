@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "2.22.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.2/world_seeker_2.22.2.apk",
-  "notas": "Los controles del mapa hablan el mismo idioma",
+  "versionCode": 79,
+  "versionName": "2.22.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.3/world_seeker_2.22.3.apk",
+  "notas": "El carril de la derecha, por encima del centro",
   "obligatoria": false
 }
