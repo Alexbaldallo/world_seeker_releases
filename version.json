@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "2.22.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.0/world_seeker_2.22.0.apk",
-  "notas": "Mas ganas de salir: brujula del coleccionista, el cromo se abre como un sobre y albumes para todas tus ciudades",
+  "versionCode": 77,
+  "versionName": "2.22.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.1/world_seeker_2.22.1.apk",
+  "notas": "Arreglo del reinicio al cambiar de pantalla, brujula dentro del panel y todos los cromos en el mapa",
   "obligatoria": false
 }
