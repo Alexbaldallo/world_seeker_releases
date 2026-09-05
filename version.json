@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "2.22.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.1/world_seeker_2.22.1.apk",
-  "notas": "Arreglo del reinicio al cambiar de pantalla, brujula dentro del panel y todos los cromos en el mapa",
+  "versionCode": 78,
+  "versionName": "2.22.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.22.2/world_seeker_2.22.2.apk",
+  "notas": "Los controles del mapa hablan el mismo idioma",
   "obligatoria": false
 }
