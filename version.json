@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "2.23.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.23.0/world_seeker_2.23.0.apk",
-  "notas": "Sintra al 0 %: la ciudad era la freguesia. Y ocho mejoras del paseo",
+  "versionCode": 81,
+  "versionName": "2.23.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.23.1/world_seeker_2.23.1.apk",
+  "notas": "El 0 %: el numerador sale del rastro, no de una suma que se reiniciaba",
   "obligatoria": false
 }
