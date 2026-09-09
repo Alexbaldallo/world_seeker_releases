@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "2.26.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.1/world_seeker_2.26.1.apk",
-  "notas": "Lisboa, cuarta auditoria: zonas rechazadas por Wikipedia, sucesos y empresas",
+  "versionCode": 90,
+  "versionName": "2.26.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.2/world_seeker_2.26.2.apk",
+  "notas": "Las zonas de candidatos ya no se pierden en silencio",
   "obligatoria": false
 }
