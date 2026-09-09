@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "2.23.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.23.1/world_seeker_2.23.1.apk",
-  "notas": "El 0 %: el numerador sale del rastro, no de una suma que se reiniciaba",
+  "versionCode": 82,
+  "versionName": "2.23.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.23.2/world_seeker_2.23.2.apk",
+  "notas": "El rastro: cierre de verdad, sin cuñas en las puntas y con los huecos pequeños rellenos",
   "obligatoria": false
 }
