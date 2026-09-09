@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "2.26.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.0/world_seeker_2.26.0.apk",
-  "notas": "La auditoria de Lisboa destapa dos fallos de fondo: visitas que no llegan y un descarte ciego",
+  "versionCode": 89,
+  "versionName": "2.26.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.1/world_seeker_2.26.1.apk",
+  "notas": "Lisboa, cuarta auditoria: zonas rechazadas por Wikipedia, sucesos y empresas",
   "obligatoria": false
 }
