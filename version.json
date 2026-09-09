@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "2.25.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.25.2/world_seeker_2.25.2.apk",
-  "notas": "El album de Lisboa salia de un barrio: el termino no era el del municipio",
+  "versionCode": 87,
+  "versionName": "2.25.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.25.3/world_seeker_2.25.3.apk",
+  "notas": "La auditoria del album, en un boton visible",
   "obligatoria": false
 }
