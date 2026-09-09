@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "2.26.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.2/world_seeker_2.26.2.apk",
-  "notas": "Las zonas de candidatos ya no se pierden en silencio",
+  "versionCode": 91,
+  "versionName": "2.26.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.3/world_seeker_2.26.3.apk",
+  "notas": "La Torre de Belem salia como Sintra: los puntos en el agua se verifican por el termino",
   "obligatoria": false
 }
