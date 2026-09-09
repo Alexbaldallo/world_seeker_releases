@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "2.23.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.23.2/world_seeker_2.23.2.apk",
-  "notas": "El rastro: cierre de verdad, sin cuñas en las puntas y con los huecos pequeños rellenos",
+  "versionCode": 83,
+  "versionName": "2.24.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.24.0/world_seeker_2.24.0.apk",
+  "notas": "Radio de descubrimiento segun lo que sea el sitio, medido contra el camino",
   "obligatoria": false
 }
