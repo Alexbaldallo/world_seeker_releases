@@ -1,7 +1,7 @@
 {
-  "versionCode": 91,
-  "versionName": "2.26.3",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.3/world_seeker_2.26.3.apk",
-  "notas": "La Torre de Belem salia como Sintra: los puntos en el agua se verifican por el termino",
+  "versionCode": 92,
+  "versionName": "2.26.4",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.4/world_seeker_2.26.4.apk",
+  "notas": "Contraprueba de la verificacion: si el geocodificador se contradice, manda el termino",
   "obligatoria": false
 }
