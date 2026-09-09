@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "2.24.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.24.0/world_seeker_2.24.0.apk",
-  "notas": "Radio de descubrimiento segun lo que sea el sitio, medido contra el camino",
+  "versionCode": 84,
+  "versionName": "2.25.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.25.0/world_seeker_2.25.0.apk",
+  "notas": "La joya de la ciudad: candidatos de todo el termino y eleccion por publico",
   "obligatoria": false
 }
