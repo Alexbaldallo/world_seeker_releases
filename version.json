@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "2.25.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.25.0/world_seeker_2.25.0.apk",
-  "notas": "La joya de la ciudad: candidatos de todo el termino y eleccion por publico",
+  "versionCode": 85,
+  "versionName": "2.25.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.25.1/world_seeker_2.25.1.apk",
+  "notas": "La joya, tercera vuelta: el termino por nombre, la verificacion y la auditoria",
   "obligatoria": false
 }
