@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "2.26.4",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.4/world_seeker_2.26.4.apk",
-  "notas": "Contraprueba de la verificacion: si el geocodificador se contradice, manda el termino",
+  "versionCode": 93,
+  "versionName": "2.26.5",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.5/world_seeker_2.26.5.apk",
+  "notas": "La foto se hace desde donde se descubre: mismo radio",
   "obligatoria": false
 }
