@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "2.26.5",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.26.5/world_seeker_2.26.5.apk",
-  "notas": "La foto se hace desde donde se descubre: mismo radio",
+  "versionCode": 94,
+  "versionName": "2.27.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.27.0/world_seeker_2.27.0.apk",
+  "notas": "Las teselas del mapa se guardan en disco y el arranque lee tu documento de la copia local",
   "obligatoria": false
 }
