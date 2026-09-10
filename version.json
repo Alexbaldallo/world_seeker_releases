@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "2.27.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.27.0/world_seeker_2.27.0.apk",
-  "notas": "Las teselas del mapa se guardan en disco y el arranque lee tu documento de la copia local",
+  "versionCode": 95,
+  "versionName": "2.28.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.28.0/world_seeker_2.28.0.apk",
+  "notas": "Audioguia: al descubrir un sitio te cuenta por voz que es y puedes seguir con la historia entera",
   "obligatoria": false
 }
