@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "2.32.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.32.0/world_seeker_2.32.0.apk",
-  "notas": "El ranking de la ciudad se alimenta de la lista entera, no de la seleccion del mapa",
+  "versionCode": 102,
+  "versionName": "2.33.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.33.0/world_seeker_2.33.0.apk",
+  "notas": "La lista entera de cada ciudad se construye una vez y se comparte; cola global para Wikipedia",
   "obligatoria": false
 }
