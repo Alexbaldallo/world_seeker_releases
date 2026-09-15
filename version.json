@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "2.30.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.30.1/world_seeker_2.30.1.apk",
-  "notas": "El ranking filtra por el poligono real del municipio, no por su rectangulo",
+  "versionCode": 100,
+  "versionName": "2.31.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.31.0/world_seeker_2.31.0.apk",
+  "notas": "Ranking afinado con la auditoria de Huelva: instalaciones, patrimonio y barrios",
   "obligatoria": false
 }
