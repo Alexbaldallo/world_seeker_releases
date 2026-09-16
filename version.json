@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "2.34.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.34.0/world_seeker_2.34.0.apk",
-  "notas": "Senales mundiales de Wikidata: idiomas, clases, patrimonio y lecturas locales",
+  "versionCode": 104,
+  "versionName": "2.35.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.0/world_seeker_2.35.0.apk",
+  "notas": "Los lugares de una ciudad se piden a Wikidata por caja del termino, sin muestreo por cercania",
   "obligatoria": false
 }
