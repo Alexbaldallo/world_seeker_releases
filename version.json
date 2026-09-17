@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "2.36.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.36.0/world_seeker_2.36.0.apk",
-  "notas": "Miniaturas de las fotos del ranking en disco: se ven al instante, difuminadas, hasta que llega la foto real",
+  "versionCode": 108,
+  "versionName": "2.36.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.36.1/world_seeker_2.36.1.apk",
+  "notas": "Tus fotos se guardan en disco y se ensenan al instante con miniatura",
   "obligatoria": false
 }
