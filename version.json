@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "2.35.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.2/world_seeker_2.35.2.apk",
-  "notas": "Mientras se construye el album nuevo se ensena el anterior, y el panel avisa de que esta en ello",
+  "versionCode": 107,
+  "versionName": "2.36.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.36.0/world_seeker_2.36.0.apk",
+  "notas": "Miniaturas de las fotos del ranking en disco: se ven al instante, difuminadas, hasta que llega la foto real",
   "obligatoria": false
 }
