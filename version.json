@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "2.35.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.0/world_seeker_2.35.0.apk",
-  "notas": "Los lugares de una ciudad se piden a Wikidata por caja del termino, sin muestreo por cercania",
+  "versionCode": 105,
+  "versionName": "2.35.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.1/world_seeker_2.35.1.apk",
+  "notas": "Fuera lo que no se puede visitar a pie: acceso comprobado en OpenStreetMap, industria y accidentes por el nombre",
   "obligatoria": false
 }
