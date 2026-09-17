@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "2.35.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.1/world_seeker_2.35.1.apk",
-  "notas": "Fuera lo que no se puede visitar a pie: acceso comprobado en OpenStreetMap, industria y accidentes por el nombre",
+  "versionCode": 106,
+  "versionName": "2.35.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.35.2/world_seeker_2.35.2.apk",
+  "notas": "Mientras se construye el album nuevo se ensena el anterior, y el panel avisa de que esta en ello",
   "obligatoria": false
 }
