@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "2.36.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.36.1/world_seeker_2.36.1.apk",
-  "notas": "Tus fotos se guardan en disco y se ensenan al instante con miniatura",
+  "versionCode": 109,
+  "versionName": "2.37.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.37.0/world_seeker_2.37.0.apk",
+  "notas": "El rastro, con acabado de tres capas: halo suave, contorno fino claro y cuerpo translucido",
   "obligatoria": false
 }
