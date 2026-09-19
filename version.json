@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "2.37.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.37.1/world_seeker_2.37.1.apk",
-  "notas": "El rastro se pinta una vez y se guarda: al mover el mapa solo se desplaza la imagen",
+  "versionCode": 111,
+  "versionName": "2.38.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.38.0/world_seeker_2.38.0.apk",
+  "notas": "El boton de la lupa del panel busca una ubicacion en vez de abrir \"Aqui\"",
   "obligatoria": false
 }
