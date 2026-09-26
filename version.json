@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "2.40.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.40.2/world_seeker_2.40.2.apk",
-  "notas": "Colonos: se juntan solo muy pegados y del mismo pais, con la localidad al frente; si se rozan, la menor se encoge. Marcas del viajero nuevas",
+  "versionCode": 119,
+  "versionName": "2.40.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.40.3/world_seeker_2.40.3.apk",
+  "notas": "Colonos: manda la importancia del geocodificador (Lisboa sobre Sintra), van encima de tu punto y se atenuan si lo tapan",
   "obligatoria": false
 }
