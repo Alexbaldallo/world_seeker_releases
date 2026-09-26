@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "2.42.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.42.0/world_seeker_2.42.0.apk",
-  "notas": "Ranking universal: una sola regla para todas las ciudades, con datos completos y una bateria de pruebas multiciudad",
+  "versionCode": 122,
+  "versionName": "2.42.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.42.1/world_seeker_2.42.1.apk",
+  "notas": "Brasilia deja de salir como \"Plano Piloto\": en el Distrito Federal manda el municipio",
   "obligatoria": false
 }
