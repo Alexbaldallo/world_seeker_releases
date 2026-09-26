@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "2.42.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.42.2/world_seeker_2.42.2.apk",
-  "notas": "Carga de lugares más rápida (2.42.2)",
+  "versionCode": 124,
+  "versionName": "2.43.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.43.0/world_seeker_2.43.0.apk",
+  "notas": "Revisión general: Drive, Android, caché en disco y reglas (2.43.0)",
   "obligatoria": false
 }
