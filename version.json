@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "2.40.3",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.40.3/world_seeker_2.40.3.apk",
-  "notas": "Colonos: manda la importancia del geocodificador (Lisboa sobre Sintra), van encima de tu punto y se atenuan si lo tapan",
+  "versionCode": 120,
+  "versionName": "2.41.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.41.0/world_seeker_2.41.0.apk",
+  "notas": "El rastro no cambia de forma al hacer zoom; las fotos del mapa se ocultan con los lugares; el visor pasa entre las fotos del grupo",
   "obligatoria": false
 }
