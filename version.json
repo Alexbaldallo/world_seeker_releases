@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "2.40.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.40.0/world_seeker_2.40.0.apk",
-  "notas": "El rastro con calidad entera hasta que desaparecen los lugares; de lejos, un colono por ciudad",
+  "versionCode": 117,
+  "versionName": "2.40.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.40.1/world_seeker_2.40.1.apk",
+  "notas": "Los colonos se agrupan si se pisan y se plantan en el centro urbano",
   "obligatoria": false
 }
