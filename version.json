@@ -1,7 +1,8 @@
 {
-  "versionCode": 124,
-  "versionName": "2.43.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.43.0/world_seeker_2.43.0.apk",
-  "notas": "Revisión general: Drive, Android, caché en disco y reglas (2.43.0)",
-  "obligatoria": false
+  "versionCode": 125,
+  "versionName": "2.44.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.44.0/world_seeker_2.44.0.apk",
+  "notas": "Todo lo pendiente de la revisión (2.44.0)",
+  "obligatoria": false,
+  "sha256": "e0df130488461d3b428cb10e2f657c40d1f9f11ccc011f37004bebd039ece44d"
 }
