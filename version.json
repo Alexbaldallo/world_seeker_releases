@@ -1,8 +1,8 @@
 {
-  "versionCode": 125,
-  "versionName": "2.44.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.44.0/world_seeker_2.44.0.apk",
-  "notas": "Todo lo pendiente de la revisión (2.44.0)",
+  "versionCode": 126,
+  "versionName": "2.45.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.45.0/world_seeker_2.45.0.apk",
+  "notas": "Mapa fluido: rastro fuera del fotograma y menos trabajo por fotograma (2.45.0)",
   "obligatoria": false,
-  "sha256": "e0df130488461d3b428cb10e2f657c40d1f9f11ccc011f37004bebd039ece44d"
+  "sha256": "55b498acb8bc70d2bcd6b89780118e7df4bdba9abf1b748c335193eb06db6da7"
 }
