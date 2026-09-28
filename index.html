@@ -3,52 +3,35 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>World Seeker — el juego de explorar ciudades a pie</title>
-<meta name="description" content="World Seeker es un juego para Android: caminas por la ciudad, el mapa se va descubriendo a tu paso, encuentras monumentos y completas el álbum de cada ciudad y país.">
-<meta property="og:title" content="World Seeker">
+<title>World Seeker — El mundo se descubre a pie</title>
+<meta name="description" content="World Seeker es un juego de exploración urbana para Android: el mapa se descubre por donde caminas, encuentras monumentos al pasar y completas el álbum de cada ciudad y país.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="World Seeker — El mundo se descubre a pie">
 <meta property="og:description" content="Camina, descubre lugares, completa el álbum de cada ciudad. Un juego de exploración urbana para Android.">
 <meta property="og:image" content="https://worldseeker.app/logo.jpg">
 <meta property="og:url" content="https://worldseeker.app/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#070A0F">
 <link rel="canonical" href="https://worldseeker.app/">
 <link rel="icon" href="logo.jpg">
-<style>
-  :root{
-    --fondo:#05070A; --panel:#0D1117; --borde:#1E2732; --texto:#E6EDF3;
-    --suave:#8B98A5; --turquesa:#64FFDA; --ambar:#FFB300; --oro:#FFD700;
-  }
-  *{box-sizing:border-box}
-  html,body{margin:0;background:var(--fondo);color:var(--texto);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55}
-  a{color:var(--turquesa)}
-  .contenedor{max-width:960px;margin:0 auto;padding:0 20px}
-  header{padding:56px 0 32px;text-align:center}
-  .logo{width:180px;height:auto;border-radius:22px;box-shadow:0 0 60px rgba(255,179,0,.25)}
-  h1{margin:22px 0 6px;font-size:40px;letter-spacing:6px;font-weight:800}
-  .lema{color:var(--suave);font-size:18px;margin:0 0 26px}
-  .boton{display:inline-block;background:var(--ambar);color:#000;font-weight:800;letter-spacing:1px;
-    padding:14px 26px;border-radius:14px;text-decoration:none;box-shadow:0 8px 30px rgba(255,179,0,.25)}
-  .boton:hover{filter:brightness(1.08)}
-  .nota{color:var(--suave);font-size:13px;margin-top:10px}
-  section{padding:38px 0;border-top:1px solid var(--borde)}
-  h2{font-size:13px;letter-spacing:4px;color:var(--turquesa);margin:0 0 18px;font-weight:800}
-  p{margin:0 0 14px}
-  .tarjetas{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
-  .tarjeta{background:var(--panel);border:1px solid var(--borde);border-radius:18px;padding:20px}
-  .tarjeta .icono{font-size:28px;margin-bottom:8px}
-  .tarjeta h3{margin:0 0 6px;font-size:16px}
-  .tarjeta p{color:var(--suave);font-size:14px;margin:0}
-  .pasos{counter-reset:paso;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
-  .paso{position:relative;padding:18px 18px 18px 58px;background:var(--panel);border:1px solid var(--borde);border-radius:18px}
-  .paso::before{counter-increment:paso;content:counter(paso);position:absolute;left:18px;top:16px;
-    width:28px;height:28px;border-radius:50%;background:var(--turquesa);color:#000;font-weight:800;
-    display:flex;align-items:center;justify-content:center}
-  .paso p{margin:0;color:var(--suave);font-size:14px}
-  .paso strong{color:var(--texto)}
-  .aviso{background:#14110A;border:1px solid rgba(255,179,0,.45);border-radius:18px;padding:18px 20px;color:#D9C9A0;font-size:14px}
-  footer{padding:32px 0 48px;color:var(--suave);font-size:13px;border-top:1px solid var(--borde)}
-  footer a{margin-right:16px}
-  @media (max-width:520px){h1{font-size:30px;letter-spacing:4px}.logo{width:140px}}
-</style>
+<link rel="apple-touch-icon" href="logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "World Seeker",
+  "operatingSystem": "Android",
+  "applicationCategory": "GameApplication",
+  "description": "Juego de exploración urbana: el mapa se descubre por donde caminas, encuentras monumentos al pasar y completas el álbum de cada ciudad y país.",
+  "url": "https://worldseeker.app/",
+  "image": "https://worldseeker.app/logo.jpg",
+  "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}
+}
+</script>
 <!-- Travelpayouts Drive: convierte en enlaces de afiliado los enlaces de
      viaje que haya en la página, y sirve para verificar el sitio. -->
 <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
@@ -63,74 +46,262 @@
 </head>
 <body>
 
-<header class="contenedor">
-  <img class="logo" src="logo.jpg" alt="World Seeker">
-  <h1>WORLD SEEKER</h1>
-  <p class="lema">Camina. Descubre. Colecciona el mundo.</p>
-  <a class="boton" id="descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest">DESCARGAR PARA ANDROID</a>
-  <p class="nota" id="version">Instalación directa (APK). La app se actualiza sola.</p>
+<!-- Iconos vectoriales reutilizables -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-descarga" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></symbol>
+    <symbol id="i-flecha" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></symbol>
+    <symbol id="i-andar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="13" cy="4" r="1.6"/><path d="M10 21l2-6-3-2 1-6 4 1 3 3"/><path d="m8 13-2 3"/><path d="m14 15 2 6"/></symbol>
+    <symbol id="i-lugar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+    <symbol id="i-album" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/><path d="M8 4v16"/></symbol>
+    <symbol id="i-mundo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18a14 14 0 0 1 0-18Z"/></symbol>
+    <symbol id="i-mapa" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 6 6-2 6 2 6-2v14l-6 2-6-2-6 2Z"/><path d="M9 4v14"/><path d="M15 6v14"/></symbol>
+    <symbol id="i-museo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10 12 4l9 6"/><path d="M5 10v8"/><path d="M9.5 10v8"/><path d="M14.5 10v8"/><path d="M19 10v8"/><path d="M3 20h18"/></symbol>
+    <symbol id="i-audio" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13a8 8 0 0 1 16 0"/><rect x="3" y="13" width="4" height="6" rx="1.5"/><rect x="17" y="13" width="4" height="6" rx="1.5"/></symbol>
+    <symbol id="i-vibra" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="3" width="8" height="18" rx="2"/><path d="M4 9v6"/><path d="M20 9v6"/><path d="M1.5 11v2"/><path d="M22.5 11v2"/></symbol>
+    <symbol id="i-camara" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4Z"/><circle cx="12" cy="13" r="3.5"/></symbol>
+    <symbol id="i-avion" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 13.5 4 11l1.5-1.5L13 11l5.5-5.5a1.5 1.5 0 0 1 2 2L15 13l1.5 7.5L15 22l-2.5-6.5-4 2.5V21l-1.5-1.5L6 17l-2.5-1.5L6 14Z"/></symbol>
+    <symbol id="i-hotel" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V8"/><path d="M3 16h18v4"/><path d="M8 12h11a2 2 0 0 1 2 2v2"/><circle cx="6.5" cy="11.5" r="1.5"/></symbol>
+    <symbol id="i-ver" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></symbol>
+    <symbol id="i-ticket" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9V6h18v3a2 2 0 0 0 0 4v3H3v-3a2 2 0 0 0 0-4Z"/><path d="M13 6v12"/></symbol>
+  </defs>
+</svg>
+
+<header class="nav">
+  <div class="contenedor">
+    <a class="marca" href="#"><img src="logo.jpg" alt=""><span>WORLD SEEKER</span></a>
+    <nav class="nav-enlaces" aria-label="Secciones">
+      <a href="#como-funciona">Cómo funciona</a>
+      <a href="#caracteristicas">Características</a>
+      <a href="#preguntas">Preguntas</a>
+      <a class="boton boton-primario boton-pequeno enlace-descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest"><svg><use href="#i-descarga"/></svg>Descargar</a>
+    </nav>
+  </div>
 </header>
 
-<section class="contenedor">
-  <h2>QUÉ ES</h2>
-  <p>World Seeker convierte cualquier paseo en una exploración. El mapa empieza cubierto y se va
-  descubriendo por donde caminas, dejando un rastro con las calles que ya son tuyas. Al pasar junto a
-  un monumento, una iglesia o un parque, lo descubres y lo añades a tu colección. Cada ciudad tiene su
-  álbum de cromos y su joya; cada país que pisas se enciende en tu mapa del mundo.</p>
-  <p>No hay que mirar la pantalla: el juego avanza con el móvil en el bolsillo y avisa cuando hay
-  algo cerca que aún no has visto.</p>
-</section>
+<main>
 
-<section class="contenedor">
-  <h2>CÓMO SE JUEGA</h2>
-  <div class="pasos">
-    <div class="paso"><p><strong>Sal a andar.</strong> El mapa se descubre a tu paso y suma metros a tu porcentaje de la ciudad.</p></div>
-    <div class="paso"><p><strong>Descubre lugares.</strong> Los sitios con historia se revelan al pasar cerca. Cada uno vale experiencia según su importancia.</p></div>
-    <div class="paso"><p><strong>Completa álbumes.</strong> Cada ciudad tiene sus cromos y una joya. Consíguelos todos y conquista la ciudad.</p></div>
-    <div class="paso"><p><strong>Enciende el mundo.</strong> Cada país que visitas se ilumina con su bandera. Los que faltan, por conquistar.</p></div>
+<section class="portada">
+  <div class="rejilla" aria-hidden="true"></div>
+  <div class="contenedor">
+    <div>
+      <span class="antetitulo"><i></i>Juego de exploración urbana · Android</span>
+      <h1>El mundo se descubre <em>a pie</em>.</h1>
+      <p class="entradilla">Sal a caminar y el mapa se irá revelando por donde pasas. Descubre monumentos al cruzarte con ellos, completa el álbum de cada ciudad y enciende los países de tu mapa del mundo.</p>
+      <div class="acciones">
+        <a class="boton boton-primario enlace-descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest"><svg><use href="#i-descarga"/></svg>Descargar para Android</a>
+        <a class="boton boton-secundario" href="#como-funciona">Cómo funciona<svg><use href="#i-flecha"/></svg></a>
+      </div>
+      <p class="nota-version" id="version">Gratis · instalación directa (APK) · la app se actualiza sola</p>
+    </div>
+    <div class="emblema">
+      <img src="logo.jpg" alt="Emblema de World Seeker: una rosa de los vientos sobre un mapa antiguo">
+    </div>
   </div>
 </section>
 
-<section class="contenedor">
-  <h2>LO QUE HACE DIFERENTE</h2>
-  <div class="tarjetas">
-    <div class="tarjeta"><div class="icono">🗺️</div><h3>Un mapa que se gana</h3><p>Lo explorado queda marcado para siempre. Los huecos se van cerrando paseo a paseo.</p></div>
-    <div class="tarjeta"><div class="icono">🏛️</div><h3>Ranking de lugares real</h3><p>Los sitios se ordenan con datos de Wikipedia y Wikidata: cuánto se escribe y se lee sobre ellos en el mundo.</p></div>
-    <div class="tarjeta"><div class="icono">🎧</div><h3>Audioguía</h3><p>Al descubrir un lugar, la app te cuenta su historia mientras sigues andando.</p></div>
-    <div class="tarjeta"><div class="icono">📳</div><h3>Modo bolsillo</h3><p>Te guía hasta el siguiente cromo por vibración, con la pantalla apagada y casi sin batería.</p></div>
-    <div class="tarjeta"><div class="icono">📷</div><h3>Tus recuerdos</h3><p>Fotos y notas en el punto exacto donde las hiciste, guardadas en tu propio Google Drive.</p></div>
-    <div class="tarjeta"><div class="icono">✈️</div><h3>Planea la próxima conquista</h3><p>Toca un país apagado y verás desde qué aeropuerto volarías, a qué ciudades, y accesos a vuelos, alojamiento y qué ver.</p></div>
+<section id="como-funciona">
+  <div class="contenedor">
+    <div class="cabecera-seccion aparece">
+      <p class="etiqueta">Cómo funciona</p>
+      <h2>Un paseo normal, convertido en una expedición.</h2>
+      <p>No hay que mirar la pantalla. El juego avanza con el móvil en el bolsillo y te avisa cuando hay algo cerca que todavía no has visto.</p>
+    </div>
+    <div class="pasos">
+      <article class="paso aparece"><svg><use href="#i-andar"/></svg><h3>Sal a andar</h3><p>Cada calle que recorres queda marcada para siempre y suma metros a tu porcentaje de la ciudad.</p></article>
+      <article class="paso aparece"><svg><use href="#i-lugar"/></svg><h3>Descubre lugares</h3><p>Los sitios con historia se revelan al pasar cerca. Cada uno vale experiencia según su importancia real.</p></article>
+      <article class="paso aparece"><svg><use href="#i-album"/></svg><h3>Completa álbumes</h3><p>Cada ciudad tiene sus cromos y una joya. Consíguelos todos y la ciudad es tuya.</p></article>
+      <article class="paso aparece"><svg><use href="#i-mundo"/></svg><h3>Enciende el mundo</h3><p>Cada país que pisas se ilumina con su bandera. Los que faltan quedan apagados, por conquistar.</p></article>
+    </div>
   </div>
 </section>
 
-<section class="contenedor">
-  <h2>TRANSPARENCIA</h2>
-  <div class="aviso">
-    World Seeker no muestra publicidad. En la vista de mundo, al planear un viaje a un país que aún
-    no has visitado, algunos accesos a vuelos, alojamiento y actividades son enlaces de afiliado: si
-    reservas a través de ellos, el desarrollador puede recibir una pequeña comisión sin coste
-    adicional para ti. Esos enlaces solo abren el buscador del proveedor en tu navegador; la app no
-    le envía ningún dato tuyo.
+<section class="sombreada">
+  <div class="contenedor demo">
+    <div class="movil aparece" aria-hidden="true">
+      <div class="pantalla">
+        <!-- Ilustración del mapa de la app: calles, rastro recorrido y lugares -->
+        <svg viewBox="0 0 300 620" preserveAspectRatio="xMidYMid slice">
+          <defs>
+            <filter id="suave" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="9"/></filter>
+            <filter id="halo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+          </defs>
+          <rect width="300" height="620" fill="#F4F1EA"/>
+          <!-- manzanas -->
+          <g fill="#E9E4D8">
+            <rect x="0" y="0" width="70" height="90"/><rect x="95" y="0" width="90" height="60"/><rect x="210" y="0" width="90" height="110"/>
+            <rect x="0" y="115" width="70" height="120"/><rect x="95" y="85" width="90" height="150"/><rect x="210" y="135" width="90" height="100"/>
+            <rect x="0" y="260" width="120" height="110"/><rect x="145" y="260" width="155" height="80"/>
+            <rect x="0" y="395" width="70" height="120"/><rect x="95" y="365" width="90" height="150"/><rect x="210" y="365" width="90" height="150"/>
+            <rect x="0" y="540" width="120" height="80"/><rect x="145" y="540" width="155" height="80"/>
+          </g>
+          <!-- parque -->
+          <rect x="145" y="260" width="155" height="80" rx="6" fill="#DCEBD3"/>
+          <!-- calles -->
+          <g stroke="#FFFFFF" stroke-width="12" fill="none" stroke-linecap="round">
+            <path d="M82 0V620"/><path d="M197 0V620"/><path d="M0 100H300"/><path d="M0 247H300"/><path d="M0 352H300"/><path d="M0 527H300"/>
+          </g>
+          <g stroke="#D9D3C4" stroke-width="1" fill="none">
+            <path d="M82 0V620"/><path d="M197 0V620"/><path d="M0 100H300"/><path d="M0 247H300"/><path d="M0 352H300"/><path d="M0 527H300"/>
+          </g>
+          <!-- rastro recorrido: halo, contorno y cuerpo -->
+          <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M82 620V352H197V247H82V100H197V0" stroke="#FFB300" stroke-opacity=".35" stroke-width="46" filter="url(#suave)"/>
+            <path d="M82 620V352H197V247H82V100H197V0" stroke="#FFF1CC" stroke-width="30"/>
+            <path d="M82 620V352H197V247H82V100H197V0" stroke="#FFB300" stroke-opacity=".82" stroke-width="26"/>
+          </g>
+          <!-- lugares: descubiertos (oro) y por descubrir (color) -->
+          <g>
+            <circle cx="140" cy="60" r="16" fill="#FFC107" filter="url(#halo)" opacity=".7"/>
+            <circle cx="140" cy="60" r="12" fill="#FFC107" stroke="#fff" stroke-width="2.5"/>
+            <path d="M140 54l1.8 3.7 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4-2.9-2.8 4-.6Z" fill="#7A5200"/>
+            <circle cx="250" cy="185" r="12" fill="#1E88E5" stroke="#fff" stroke-width="2.5"/>
+            <path d="M244 190h12M245 189v-5h10v5M247 184l3-3 3 3" stroke="#fff" stroke-width="1.6" fill="none"/>
+            <circle cx="40" cy="300" r="12" fill="#8E24AA" stroke="#fff" stroke-width="2.5"/>
+            <path d="M40 293v14M35 300h10" stroke="#fff" stroke-width="1.8"/>
+            <circle cx="250" cy="450" r="12" fill="#6D4C41" stroke="#fff" stroke-width="2.5"/>
+            <path d="M244 456v-8l3 2 3-3 3 3 3-2v8Z" fill="#fff"/>
+            <circle cx="140" cy="440" r="12" fill="#FFC107" stroke="#fff" stroke-width="2.5"/>
+            <path d="M140 434l1.8 3.7 4 .6-2.9 2.8.7 4-3.6-1.9-3.6 1.9.7-4-2.9-2.8 4-.6Z" fill="#7A5200"/>
+          </g>
+          <!-- el jugador -->
+          <circle cx="82" cy="560" r="22" fill="#FFB300" opacity=".18"/>
+          <circle cx="82" cy="560" r="9" fill="#FFB300" stroke="#fff" stroke-width="3"/>
+          <!-- panel superior -->
+          <g>
+            <rect x="14" y="26" width="272" height="54" rx="16" fill="#0D1117" fill-opacity=".92"/>
+            <text x="30" y="49" font-family="Inter, Arial" font-size="9" font-weight="700" letter-spacing="2" fill="#8B98A5">MADRID</text>
+            <text x="30" y="68" font-family="Inter, Arial" font-size="15" font-weight="800" fill="#FFFFFF">23,4 % descubierto</text>
+            <rect x="196" y="44" width="74" height="18" rx="9" fill="#FFB300" fill-opacity=".14" stroke="#FFB300" stroke-opacity=".6"/>
+            <text x="233" y="56.5" font-family="Inter, Arial" font-size="8.5" font-weight="800" fill="#FFB300" text-anchor="middle" letter-spacing="1">7 CROMOS</text>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <div class="texto aparece">
+      <p class="etiqueta">El mapa</p>
+      <h2>Un mapa que se gana calle a calle.</h2>
+      <p>Lo explorado queda marcado como un trazo continuo que no se borra. Los huecos entre calles se van cerrando paseo a paseo, hasta que el barrio entero es tuyo.</p>
+      <ul>
+        <li><svg><use href="#i-check"/></svg><span><strong>Porcentaje real de cada ciudad,</strong> medido sobre sus calles de verdad, no sobre un cuadrado alrededor de ti.</span></li>
+        <li><svg><use href="#i-check"/></svg><span><strong>Lugares elegidos con datos,</strong> no al azar: cuánto se escribe y se lee sobre cada sitio en Wikipedia y Wikidata, en todos los idiomas.</span></li>
+        <li><svg><use href="#i-check"/></svg><span><strong>Sin batería de más:</strong> el registro sigue con la pantalla apagada y el móvil guardado.</span></li>
+      </ul>
+    </div>
   </div>
 </section>
 
-<footer class="contenedor">
-  <a href="privacidad.html">Política de privacidad</a>
-  <a href="https://github.com/Alexbaldallo/world_seeker_releases/releases">Todas las versiones</a>
-  <a href="https://github.com/Alexbaldallo/world_seeker_releases/issues">Contacto y sugerencias</a>
-  <p style="margin-top:14px">Mapa © OpenStreetMap contributors · Teselas © CARTO · Lugares: Wikipedia y Wikidata · Aeropuertos: OurAirports</p>
+<section id="caracteristicas">
+  <div class="contenedor">
+    <div class="cabecera-seccion aparece">
+      <p class="etiqueta">Características</p>
+      <h2>Pensado para caminar, no para mirar el móvil.</h2>
+    </div>
+    <div class="tarjetas">
+      <article class="tarjeta aparece"><div class="icono"><svg><use href="#i-museo"/></svg></div><h3>Ranking de lugares real</h3><p>Los sitios de cada ciudad se ordenan por su importancia en el mundo. La joya de la ciudad es siempre la misma para todos los jugadores.</p></article>
+      <article class="tarjeta aparece"><div class="icono"><svg><use href="#i-audio"/></svg></div><h3>Audioguía</h3><p>Al descubrir un lugar, la app te cuenta su historia mientras sigues andando. Un resumen o el artículo entero, tú eliges.</p></article>
+      <article class="tarjeta aparece"><div class="icono"><svg><use href="#i-vibra"/></svg></div><h3>Modo bolsillo</h3><p>Te guía hasta el siguiente cromo por vibración, con la pantalla apagada y el GPS durmiendo entre giro y giro.</p></article>
+      <article class="tarjeta aparece"><div class="icono"><svg><use href="#i-camara"/></svg></div><h3>Tus recuerdos</h3><p>Fotos y notas en el punto exacto donde las hiciste. Se guardan en tu propio Google Drive: son tuyas.</p></article>
+      <article class="tarjeta aparece"><div class="icono"><svg><use href="#i-album"/></svg></div><h3>Álbum, pasaporte y colección</h3><p>Cromos por ciudad, sellos por país, medallas por lo conseguido. Y una clasificación para picarte con los demás.</p></article>
+      <article class="tarjeta ambar aparece"><div class="icono"><svg><use href="#i-avion"/></svg></div><h3>Planea la próxima conquista</h3><p>Toca un país apagado en tu mapa del mundo y verás desde qué aeropuerto volarías, a qué ciudades, y qué ver allí.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="sombreada">
+  <div class="contenedor planear">
+    <div class="aparece">
+      <div class="ficha-pais" role="img" aria-label="Ficha de un país por conquistar en la app">
+        <div class="fila"><span class="bandera">🇮🇹</span><span class="nombre">ITALIA</span><span class="estado">POR CONQUISTAR</span></div>
+        <p class="ruta">Desde Sevilla (SVQ) · 1.850 km · ≈3 h de vuelo</p>
+        <div class="chips"><span class="chip activo">Roma</span><span class="chip">Milán</span><span class="chip">Nápoles</span><span class="chip">Venecia</span><span class="chip">Bolonia</span></div>
+        <div class="accesos"><span class="acceso"><svg><use href="#i-avion"/></svg>VUELOS</span><span class="acceso"><svg><use href="#i-hotel"/></svg>DORMIR</span><span class="acceso"><svg><use href="#i-ver"/></svg>QUÉ VER</span></div>
+        <p class="letra">Si reservas desde aquí, World Seeker recibe una pequeña comisión. A ti no te cuesta nada más.</p>
+      </div>
+    </div>
+    <div class="texto aparece">
+      <p class="etiqueta">Del mapa al viaje</p>
+      <h2>Los países apagados son la lista de deseos.</h2>
+      <p style="color:var(--texto-2);font-size:16px">En la vista de mundo, un país que aún no has visitado se puede planear: la app sabe cuál es tu aeropuerto más cercano y a qué ciudades del país se vuela, sin conexión. Desde ahí, vuelos, alojamiento y actividades en un toque. En la ficha de cada museo o monumento, sus entradas.</p>
+      <p style="color:var(--texto-3);font-size:14px;margin:0">Es la única parte de la app con enlaces comerciales, y siempre está a la vista que lo son.</p>
+    </div>
+  </div>
+</section>
+
+<section id="preguntas">
+  <div class="contenedor">
+    <div class="cabecera-seccion aparece">
+      <p class="etiqueta">Preguntas frecuentes</p>
+      <h2>Lo que suele preguntarse antes de instalar.</h2>
+    </div>
+    <div class="faq aparece">
+      <details><summary>¿Es gratis?</summary><p>Sí, entera y sin anuncios. Los únicos enlaces comerciales son los de viajes y entradas descritos arriba, y son opcionales.</p></details>
+      <details><summary>¿Por qué se instala con un APK y no desde la tienda?</summary><p>World Seeker se distribuye de momento como instalación directa. El APK se publica firmado en cada versión y la propia app avisa y descarga las actualizaciones, comprobando la huella del archivo antes de instalar.</p></details>
+      <details><summary>¿Gasta mucha batería?</summary><p>Está diseñada para lo contrario: el registro sigue con la pantalla apagada, el modo bolsillo apaga el GPS entre giro y giro y el mapa solo se recalcula cuando hace falta. Un paseo largo consume menos que tener el navegador abierto.</p></details>
+      <details><summary>¿Funciona en el extranjero?</summary><p>Sí. Los lugares se buscan en la Wikipedia del país y en Wikidata, y el mapa del mundo y los aeropuertos van dentro de la app, sin conexión.</p></details>
+      <details><summary>¿Qué pasa con mis datos?</summary><p>Tu recorrido, tus fotos y tu colección son privados: nadie más los ve. En la clasificación solo aparecen tu apodo y tu nivel. Está todo detallado en la <a href="privacidad.html">política de privacidad</a>.</p></details>
+    </div>
+  </div>
+</section>
+
+<section id="descargar" class="compacta">
+  <div class="contenedor">
+    <div class="descarga aparece">
+      <div>
+        <p class="etiqueta">Descargar</p>
+        <h2>Instálala en un minuto.</h2>
+        <ol>
+          <li><strong>Descarga el APK</strong> con el botón. Android te avisará de que es una instalación directa.</li>
+          <li><strong>Permite instalar</strong> desde el navegador cuando te lo pida (solo la primera vez).</li>
+          <li><strong>Abre World Seeker</strong>, entra con Google y sal a la calle. A partir de ahí se actualiza sola.</li>
+        </ol>
+      </div>
+      <div class="cta">
+        <a class="boton boton-primario enlace-descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest"><svg><use href="#i-descarga"/></svg>Descargar para Android</a>
+        <small id="version-2">Última versión publicada · Android 7 o superior</small>
+        <small><a href="https://github.com/Alexbaldallo/world_seeker_releases/releases">Todas las versiones y notas de cada una</a></small>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="contenedor">
+    <div>
+      <a class="marca" href="#"><img src="logo.jpg" alt=""><span>WORLD SEEKER</span></a>
+      <p>Mapa © OpenStreetMap contributors · Teselas © CARTO · Lugares: Wikipedia y Wikidata · Aeropuertos: OurAirports.</p>
+      <p>Algunos enlaces de viaje son de afiliado (Travelpayouts, GetYourGuide): si reservas a través de ellos, el desarrollador puede recibir una comisión sin coste adicional para ti.</p>
+    </div>
+    <nav aria-label="Enlaces legales">
+      <a href="privacidad.html">Política de privacidad</a>
+      <a href="https://github.com/Alexbaldallo/world_seeker_releases/issues">Contacto y sugerencias</a>
+      <a href="https://github.com/Alexbaldallo/world_seeker_releases/releases">Versiones</a>
+    </nav>
+  </div>
 </footer>
 
 <script>
   // La versión y el enlace de descarga salen del mismo version.json que
   // consulta la app para actualizarse.
   fetch('version.json', {cache: 'no-store'}).then(r => r.json()).then(v => {
-    if (v && v.apkUrl) document.getElementById('descarga').href = v.apkUrl;
-    if (v && v.versionName) {
+    if (!v) return;
+    if (v.apkUrl) document.querySelectorAll('.enlace-descarga').forEach(a => a.href = v.apkUrl);
+    if (v.versionName) {
       document.getElementById('version').textContent =
-        'Versión ' + v.versionName + ' · instalación directa (APK) · la app se actualiza sola';
+        'Gratis · versión ' + v.versionName + ' · instalación directa (APK) · la app se actualiza sola';
+      document.getElementById('version-2').textContent =
+        'Versión ' + v.versionName + ' · Android 7 o superior';
     }
   }).catch(() => {});
+
+  // Aparición suave de las secciones al llegar a ellas
+  const obs = new IntersectionObserver(es => es.forEach(e => {
+    if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
+  }), {rootMargin: '0px 0px -8% 0px'});
+  document.querySelectorAll('.aparece').forEach(el => obs.observe(el));
 </script>
 </body>
 </html>

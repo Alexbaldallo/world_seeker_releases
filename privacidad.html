@@ -1,14 +1,18 @@
 <!doctype html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Política de privacidad — World Seeker</title><link rel="icon" href="logo.jpg">
-<style>
-:root{--fondo:#05070A;--texto:#E6EDF3;--suave:#8B98A5;--turquesa:#64FFDA;--borde:#1E2732}
-body{margin:0;background:var(--fondo);color:var(--texto);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
-main{max-width:760px;margin:0 auto;padding:40px 20px 60px}
-a{color:var(--turquesa)} h1{font-size:28px;letter-spacing:2px} h2{font-size:14px;letter-spacing:3px;color:var(--turquesa);margin-top:34px}
-h3{font-size:16px;margin-bottom:4px} p,li{color:#C9D1D9} code{background:#161B22;padding:2px 6px;border-radius:6px}
-.volver{display:inline-block;margin-bottom:24px;color:var(--suave);text-decoration:none}
-</style><!-- Travelpayouts Drive: convierte en enlaces de afiliado los enlaces de
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de privacidad — World Seeker</title>
+<meta name="description" content="Qué datos guarda World Seeker, para qué, con quién se comparten y cómo borrarlos.">
+<meta name="theme-color" content="#070A0F">
+<link rel="canonical" href="https://worldseeker.app/privacidad.html">
+<link rel="icon" href="logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilo.css">
+<!-- Travelpayouts Drive: convierte en enlaces de afiliado los enlaces de
      viaje que haya en la página, y sirve para verificar el sitio. -->
 <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
   (function () {
@@ -19,10 +23,44 @@ h3{font-size:16px;margin-bottom:4px} p,li{color:#C9D1D9} code{background:#161B22
       document.head.appendChild(script);
   })();
 </script>
-</head><body><main>
-<a class="volver" href="index.html">← World Seeker</a>
-<h1>Política de privacidad de World Seeker</h1>
-<p><strong>Última actualización:</strong> 28 de septiembre de 2026</p>
+</head>
+<body>
+<!-- Iconos vectoriales reutilizables -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-descarga" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></symbol>
+    <symbol id="i-flecha" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></symbol>
+    <symbol id="i-andar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="13" cy="4" r="1.6"/><path d="M10 21l2-6-3-2 1-6 4 1 3 3"/><path d="m8 13-2 3"/><path d="m14 15 2 6"/></symbol>
+    <symbol id="i-lugar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+    <symbol id="i-album" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/><path d="M8 4v16"/></symbol>
+    <symbol id="i-mundo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a14 14 0 0 1 0 18a14 14 0 0 1 0-18Z"/></symbol>
+    <symbol id="i-mapa" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 6 6-2 6 2 6-2v14l-6 2-6-2-6 2Z"/><path d="M9 4v14"/><path d="M15 6v14"/></symbol>
+    <symbol id="i-museo" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10 12 4l9 6"/><path d="M5 10v8"/><path d="M9.5 10v8"/><path d="M14.5 10v8"/><path d="M19 10v8"/><path d="M3 20h18"/></symbol>
+    <symbol id="i-audio" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13a8 8 0 0 1 16 0"/><rect x="3" y="13" width="4" height="6" rx="1.5"/><rect x="17" y="13" width="4" height="6" rx="1.5"/></symbol>
+    <symbol id="i-vibra" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="3" width="8" height="18" rx="2"/><path d="M4 9v6"/><path d="M20 9v6"/><path d="M1.5 11v2"/><path d="M22.5 11v2"/></symbol>
+    <symbol id="i-camara" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4Z"/><circle cx="12" cy="13" r="3.5"/></symbol>
+    <symbol id="i-avion" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 13.5 4 11l1.5-1.5L13 11l5.5-5.5a1.5 1.5 0 0 1 2 2L15 13l1.5 7.5L15 22l-2.5-6.5-4 2.5V21l-1.5-1.5L6 17l-2.5-1.5L6 14Z"/></symbol>
+    <symbol id="i-hotel" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V8"/><path d="M3 16h18v4"/><path d="M8 12h11a2 2 0 0 1 2 2v2"/><circle cx="6.5" cy="11.5" r="1.5"/></symbol>
+    <symbol id="i-ver" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5L20 7"/></symbol>
+    <symbol id="i-ticket" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9V6h18v3a2 2 0 0 0 0 4v3H3v-3a2 2 0 0 0 0-4Z"/><path d="M13 6v12"/></symbol>
+  </defs>
+</svg>
+
+<header class="nav">
+  <div class="contenedor">
+    <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>WORLD SEEKER</span></a>
+    <nav class="nav-enlaces" aria-label="Secciones">
+      <a href="index.html#como-funciona">Cómo funciona</a>
+      <a href="index.html#caracteristicas">Características</a>
+      <a href="index.html#preguntas">Preguntas</a>
+      <a class="boton boton-primario boton-pequeno enlace-descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest"><svg><use href="#i-descarga"/></svg>Descargar</a>
+    </nav>
+  </div>
+</header>
+<main class="documento">
+  <h1>Política de privacidad de World Seeker</h1>
+  <p class="fecha">Última actualización: 28 de septiembre de 2026</p>
 <p>World Seeker es un juego de exploración: caminas por la ciudad y la aplicación va dibujando por dónde has pasado, descubre los lugares de interés que tienes cerca y guarda tu colección de ciudades y países.</p>
 <p>Para que eso funcione, la aplicación necesita saber dónde estás. Este documento explica qué se guarda exactamente, para qué, con quién se comparte y cómo puedes borrarlo.</p>
 <p><strong>Responsable del tratamiento:</strong> el desarrollador de World Seeker. <strong>Contacto:</strong> a través de la <a href="https://github.com/Alexbaldallo/world_seeker_releases/issues">página de la app en GitHub</a></p>
@@ -54,4 +92,20 @@ h3{font-size:16px;margin-bottom:4px} p,li{color:#C9D1D9} code{background:#161B22
 <p>World Seeker no está dirigida a menores de 13 años y no recoge datos de forma consciente de personas de esa edad.</p>
 <h2>7. Cambios en esta política</h2>
 <p>Si la aplicación cambia lo que recoge o para qué, esta página se actualizará y se cambiará la fecha del encabezado.</p>
-</main></body></html>
+</main>
+<footer>
+  <div class="contenedor">
+    <div>
+      <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>WORLD SEEKER</span></a>
+      <p>Mapa © OpenStreetMap contributors · Teselas © CARTO · Lugares: Wikipedia y Wikidata · Aeropuertos: OurAirports.</p>
+      <p>Algunos enlaces de viaje son de afiliado (Travelpayouts, GetYourGuide): si reservas a través de ellos, el desarrollador puede recibir una comisión sin coste adicional para ti.</p>
+    </div>
+    <nav aria-label="Enlaces legales">
+      <a href="privacidad.html">Política de privacidad</a>
+      <a href="https://github.com/Alexbaldallo/world_seeker_releases/issues">Contacto y sugerencias</a>
+      <a href="https://github.com/Alexbaldallo/world_seeker_releases/releases">Versiones</a>
+    </nav>
+  </div>
+</footer>
+</body>
+</html>
