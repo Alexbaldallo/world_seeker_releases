@@ -1,8 +1,8 @@
 {
-  "versionCode": 128,
-  "versionName": "2.46.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.46.1/world_seeker_2.46.1.apk",
-  "notas": "Versión 2.46.1: enlaces de viaje con los identificadores de afiliado",
+  "versionCode": 129,
+  "versionName": "2.47.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.47.0/world_seeker_2.47.0.apk",
+  "notas": "Entradas y visitas en la ficha de cada lugar (2.47.0)",
   "obligatoria": false,
-  "sha256": "e060e1904c459e3772a191003ba517aea9face710f8a8399217fd5755b2cc9f0"
+  "sha256": "ef7012847734aa0cfd68b8b191ddd9c93a7087aaeabf8cb433a742a9fb24a3fe"
 }
