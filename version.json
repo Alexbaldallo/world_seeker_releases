@@ -1,8 +1,8 @@
 {
-  "versionCode": 136,
-  "versionName": "2.50.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.50.1/world_seeker_2.50.1.apk",
-  "notas": "Alojamiento en euros (2.50.1)",
+  "versionCode": 137,
+  "versionName": "2.51.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.0/world_seeker_2.51.0.apk",
+  "notas": "Enlaces de viaje por ubicación, en el idioma y la moneda del jugador (2.51.0)",
   "obligatoria": false,
-  "sha256": "ebdfab450a5c245a0ad4ebb75257094bc3625a6f68eb6ab1935d9da457b63561"
+  "sha256": "d3e62eac21dd4a75599cccc9aa4d97d7bd0151b7152a1080a1d32ddd75d7ac30"
 }
