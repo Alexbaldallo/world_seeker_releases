@@ -1,8 +1,8 @@
 {
-  "versionCode": 126,
-  "versionName": "2.45.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.45.0/world_seeker_2.45.0.apk",
-  "notas": "Mapa fluido: rastro fuera del fotograma y menos trabajo por fotograma (2.45.0)",
+  "versionCode": 127,
+  "versionName": "2.46.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.46.0/world_seeker_2.46.0.apk",
+  "notas": "Planear un país por conquistar: vuelos, alojamiento y qué ver (2.46.0)",
   "obligatoria": false,
-  "sha256": "55b498acb8bc70d2bcd6b89780118e7df4bdba9abf1b748c335193eb06db6da7"
+  "sha256": "75d97df84a952de33860c5bb5dd9ac727af0e49292a266822d88d2ce33bf85f7"
 }
