@@ -1,8 +1,8 @@
 {
-  "versionCode": 134,
-  "versionName": "2.49.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.49.2/world_seeker_2.49.2.apk",
-  "notas": "Modo bolsillo solo con vibración: sin voz en giros, desvíos ni llegada (2.49.2)",
+  "versionCode": 135,
+  "versionName": "2.50.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.50.0/world_seeker_2.50.0.apk",
+  "notas": "Modo bolsillo rehecho desde cero: navegación por vibración con lazo cerrado (2.50.0)",
   "obligatoria": false,
-  "sha256": "ac41f6ed344a306188647726dea87881abe6f0dfbfcc979c7756fcc5be4d4287"
+  "sha256": "b7354e762a4f03530197069a00d4281c0ed61ac5fd41d7b43fac60b7c5b55b52"
 }
