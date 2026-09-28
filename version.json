@@ -1,8 +1,8 @@
 {
-  "versionCode": 137,
-  "versionName": "2.51.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.0/world_seeker_2.51.0.apk",
-  "notas": "Enlaces de viaje por ubicación, en el idioma y la moneda del jugador (2.51.0)",
+  "versionCode": 138,
+  "versionName": "2.51.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.1/world_seeker_2.51.1.apk",
+  "notas": "Misiones diarias: cuentan todo lo hecho en el día (2.51.1)",
   "obligatoria": false,
-  "sha256": "d3e62eac21dd4a75599cccc9aa4d97d7bd0151b7152a1080a1d32ddd75d7ac30"
+  "sha256": "6a3fa3f1fc644b819c36cd65639b2263931d6ecdfad6e9e859644270d6a4971f"
 }
