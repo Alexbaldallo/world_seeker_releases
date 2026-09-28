@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Seeker — el juego de explorar ciudades a pie</title>
+<meta name="description" content="World Seeker es un juego para Android: caminas por la ciudad, el mapa se va descubriendo a tu paso, encuentras monumentos y completas el álbum de cada ciudad y país.">
+<meta property="og:title" content="World Seeker">
+<meta property="og:description" content="Camina, descubre lugares, completa el álbum de cada ciudad. Un juego de exploración urbana para Android.">
+<meta property="og:image" content="logo.jpg">
+<link rel="icon" href="logo.jpg">
+<style>
+  :root{
+    --fondo:#05070A; --panel:#0D1117; --borde:#1E2732; --texto:#E6EDF3;
+    --suave:#8B98A5; --turquesa:#64FFDA; --ambar:#FFB300; --oro:#FFD700;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--fondo);color:var(--texto);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55}
+  a{color:var(--turquesa)}
+  .contenedor{max-width:960px;margin:0 auto;padding:0 20px}
+  header{padding:56px 0 32px;text-align:center}
+  .logo{width:180px;height:auto;border-radius:22px;box-shadow:0 0 60px rgba(255,179,0,.25)}
+  h1{margin:22px 0 6px;font-size:40px;letter-spacing:6px;font-weight:800}
+  .lema{color:var(--suave);font-size:18px;margin:0 0 26px}
+  .boton{display:inline-block;background:var(--ambar);color:#000;font-weight:800;letter-spacing:1px;
+    padding:14px 26px;border-radius:14px;text-decoration:none;box-shadow:0 8px 30px rgba(255,179,0,.25)}
+  .boton:hover{filter:brightness(1.08)}
+  .nota{color:var(--suave);font-size:13px;margin-top:10px}
+  section{padding:38px 0;border-top:1px solid var(--borde)}
+  h2{font-size:13px;letter-spacing:4px;color:var(--turquesa);margin:0 0 18px;font-weight:800}
+  p{margin:0 0 14px}
+  .tarjetas{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+  .tarjeta{background:var(--panel);border:1px solid var(--borde);border-radius:18px;padding:20px}
+  .tarjeta .icono{font-size:28px;margin-bottom:8px}
+  .tarjeta h3{margin:0 0 6px;font-size:16px}
+  .tarjeta p{color:var(--suave);font-size:14px;margin:0}
+  .pasos{counter-reset:paso;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+  .paso{position:relative;padding:18px 18px 18px 58px;background:var(--panel);border:1px solid var(--borde);border-radius:18px}
+  .paso::before{counter-increment:paso;content:counter(paso);position:absolute;left:18px;top:16px;
+    width:28px;height:28px;border-radius:50%;background:var(--turquesa);color:#000;font-weight:800;
+    display:flex;align-items:center;justify-content:center}
+  .paso p{margin:0;color:var(--suave);font-size:14px}
+  .paso strong{color:var(--texto)}
+  .aviso{background:#14110A;border:1px solid rgba(255,179,0,.45);border-radius:18px;padding:18px 20px;color:#D9C9A0;font-size:14px}
+  footer{padding:32px 0 48px;color:var(--suave);font-size:13px;border-top:1px solid var(--borde)}
+  footer a{margin-right:16px}
+  @media (max-width:520px){h1{font-size:30px;letter-spacing:4px}.logo{width:140px}}
+</style>
+</head>
+<body>
+
+<header class="contenedor">
+  <img class="logo" src="logo.jpg" alt="World Seeker">
+  <h1>WORLD SEEKER</h1>
+  <p class="lema">Camina. Descubre. Colecciona el mundo.</p>
+  <a class="boton" id="descarga" href="https://github.com/Alexbaldallo/world_seeker_releases/releases/latest">DESCARGAR PARA ANDROID</a>
+  <p class="nota" id="version">Instalación directa (APK). La app se actualiza sola.</p>
+</header>
+
+<section class="contenedor">
+  <h2>QUÉ ES</h2>
+  <p>World Seeker convierte cualquier paseo en una exploración. El mapa empieza cubierto y se va
+  descubriendo por donde caminas, dejando un rastro con las calles que ya son tuyas. Al pasar junto a
+  un monumento, una iglesia o un parque, lo descubres y lo añades a tu colección. Cada ciudad tiene su
+  álbum de cromos y su joya; cada país que pisas se enciende en tu mapa del mundo.</p>
+  <p>No hay que mirar la pantalla: el juego avanza con el móvil en el bolsillo y avisa cuando hay
+  algo cerca que aún no has visto.</p>
+</section>
+
+<section class="contenedor">
+  <h2>CÓMO SE JUEGA</h2>
+  <div class="pasos">
+    <div class="paso"><p><strong>Sal a andar.</strong> El mapa se descubre a tu paso y suma metros a tu porcentaje de la ciudad.</p></div>
+    <div class="paso"><p><strong>Descubre lugares.</strong> Los sitios con historia se revelan al pasar cerca. Cada uno vale experiencia según su importancia.</p></div>
+    <div class="paso"><p><strong>Completa álbumes.</strong> Cada ciudad tiene sus cromos y una joya. Consíguelos todos y conquista la ciudad.</p></div>
+    <div class="paso"><p><strong>Enciende el mundo.</strong> Cada país que visitas se ilumina con su bandera. Los que faltan, por conquistar.</p></div>
+  </div>
+</section>
+
+<section class="contenedor">
+  <h2>LO QUE HACE DIFERENTE</h2>
+  <div class="tarjetas">
+    <div class="tarjeta"><div class="icono">🗺️</div><h3>Un mapa que se gana</h3><p>Lo explorado queda marcado para siempre. Los huecos se van cerrando paseo a paseo.</p></div>
+    <div class="tarjeta"><div class="icono">🏛️</div><h3>Ranking de lugares real</h3><p>Los sitios se ordenan con datos de Wikipedia y Wikidata: cuánto se escribe y se lee sobre ellos en el mundo.</p></div>
+    <div class="tarjeta"><div class="icono">🎧</div><h3>Audioguía</h3><p>Al descubrir un lugar, la app te cuenta su historia mientras sigues andando.</p></div>
+    <div class="tarjeta"><div class="icono">📳</div><h3>Modo bolsillo</h3><p>Te guía hasta el siguiente cromo por vibración, con la pantalla apagada y casi sin batería.</p></div>
+    <div class="tarjeta"><div class="icono">📷</div><h3>Tus recuerdos</h3><p>Fotos y notas en el punto exacto donde las hiciste, guardadas en tu propio Google Drive.</p></div>
+    <div class="tarjeta"><div class="icono">✈️</div><h3>Planea la próxima conquista</h3><p>Toca un país apagado y verás desde qué aeropuerto volarías, a qué ciudades, y accesos a vuelos, alojamiento y qué ver.</p></div>
+  </div>
+</section>
+
+<section class="contenedor">
+  <h2>TRANSPARENCIA</h2>
+  <div class="aviso">
+    World Seeker no muestra publicidad. En la vista de mundo, al planear un viaje a un país que aún
+    no has visitado, algunos accesos a vuelos, alojamiento y actividades son enlaces de afiliado: si
+    reservas a través de ellos, el desarrollador puede recibir una pequeña comisión sin coste
+    adicional para ti. Esos enlaces solo abren el buscador del proveedor en tu navegador; la app no
+    le envía ningún dato tuyo.
+  </div>
+</section>
+
+<footer class="contenedor">
+  <a href="privacidad.html">Política de privacidad</a>
+  <a href="https://github.com/Alexbaldallo/world_seeker_releases/releases">Todas las versiones</a>
+  <a href="https://github.com/Alexbaldallo/world_seeker_releases/issues">Contacto y sugerencias</a>
+  <p style="margin-top:14px">Mapa © OpenStreetMap contributors · Teselas © CARTO · Lugares: Wikipedia y Wikidata · Aeropuertos: OurAirports</p>
+</footer>
+
+<script>
+  // La versión y el enlace de descarga salen del mismo version.json que
+  // consulta la app para actualizarse.
+  fetch('version.json', {cache: 'no-store'}).then(r => r.json()).then(v => {
+    if (v && v.apkUrl) document.getElementById('descarga').href = v.apkUrl;
+    if (v && v.versionName) {
+      document.getElementById('version').textContent =
+        'Versión ' + v.versionName + ' · instalación directa (APK) · la app se actualiza sola';
+    }
+  }).catch(() => {});
+</script>
+</body>
+</html>
