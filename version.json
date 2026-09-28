@@ -1,8 +1,8 @@
 {
-  "versionCode": 127,
-  "versionName": "2.46.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.46.0/world_seeker_2.46.0.apk",
-  "notas": "Planear un país por conquistar: vuelos, alojamiento y qué ver (2.46.0)",
+  "versionCode": 128,
+  "versionName": "2.46.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.46.1/world_seeker_2.46.1.apk",
+  "notas": "Versión 2.46.1: enlaces de viaje con los identificadores de afiliado",
   "obligatoria": false,
-  "sha256": "75d97df84a952de33860c5bb5dd9ac727af0e49292a266822d88d2ce33bf85f7"
+  "sha256": "e060e1904c459e3772a191003ba517aea9face710f8a8399217fd5755b2cc9f0"
 }
