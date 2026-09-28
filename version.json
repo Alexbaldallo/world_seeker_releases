@@ -1,8 +1,8 @@
 {
-  "versionCode": 132,
-  "versionName": "2.49.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.49.0/world_seeker_2.49.0.apk",
-  "notas": "Preparación para Google Play (2.49.0)",
+  "versionCode": 133,
+  "versionName": "2.49.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.49.1/world_seeker_2.49.1.apk",
+  "notas": "Modo bolsillo: indicaciones habladas en cada giro y vibración con dirección en la esquina (2.49.1)",
   "obligatoria": false,
-  "sha256": "15a2765353d90c5032b5217df22cd013a20d91594af0985dcf73d1fe75e04d4b"
+  "sha256": "790e629ae9e912e72681cc1e513482e09b9ffc7ebf6b42ef724d1b189e68ea56"
 }
