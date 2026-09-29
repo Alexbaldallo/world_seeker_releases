@@ -1,8 +1,8 @@
 {
-  "versionCode": 144,
-  "versionName": "2.53.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.53.0/world_seeker_2.53.0.apk",
-  "notas": "Alta nueva: guía, permisos obligatorios y apodo único para siempre",
+  "versionCode": 145,
+  "versionName": "2.53.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.53.1/world_seeker_2.53.1.apk",
+  "notas": "Avatares en el perfil: se desbloquean con XP y se equipan (prueba)",
   "obligatoria": false,
-  "sha256": "67be080d91197b9ec2383dd39eb639bf56555bf91bbb29b55ac1ab7769544396"
+  "sha256": "0824580ab53360dee557c56f2261d0e4e584d907a69edabbc66a2c5407ee8cf1"
 }
