@@ -1,8 +1,8 @@
 {
-  "versionCode": 140,
-  "versionName": "2.51.3",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.3/world_seeker_2.51.3.apk",
-  "notas": "Versión de Play sin permisos que no usa (2.51.3)",
+  "versionCode": 141,
+  "versionName": "2.51.4",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.4/world_seeker_2.51.4.apk",
+  "notas": "google-services.json con las huellas de Play para app.worldseeker (2.51.4)",
   "obligatoria": false,
-  "sha256": "145e6d4d15fe2eef7b09584a239ac17e735fa5d5b2d77d1d703404926d64d585"
+  "sha256": "7f5a9d3233d2ddee3a18619cee5331fcbf87fcabe28d5989ec15e9f36b75ff68"
 }
