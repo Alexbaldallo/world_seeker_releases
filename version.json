@@ -1,8 +1,8 @@
 {
-  "versionCode": 148,
-  "versionName": "2.54.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.1/world_seeker_2.54.1.apk",
-  "notas": "Fuera los avisos de registro del mapa; la ayuda del ahorro de batería queda en Perfil → Ajustes",
+  "versionCode": 149,
+  "versionName": "2.54.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.2/world_seeker_2.54.2.apk",
+  "notas": "La app siempre en vertical (sin giro automático)",
   "obligatoria": false,
-  "sha256": "20986e677126a4d8d0b2bb0e15519559dfae711c4b22fc8c07e75ccb66e5d212"
+  "sha256": "fa6b4f74f56a490cc3b1494cfaccc4c4cb97b0699758d8189b18dac42edf65e0"
 }
