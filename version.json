@@ -1,8 +1,8 @@
 {
-  "versionCode": 147,
-  "versionName": "2.54.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.0/world_seeker_2.54.0.apk",
-  "notas": "Informes de errores y cortes del registro (Crashlytics) y ayuda con el ahorro de batería",
+  "versionCode": 148,
+  "versionName": "2.54.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.1/world_seeker_2.54.1.apk",
+  "notas": "Fuera los avisos de registro del mapa; la ayuda del ahorro de batería queda en Perfil → Ajustes",
   "obligatoria": false,
-  "sha256": "66171447b0537d03e0c53cc55e0c7cc5ec2e0edb6c9e0b0cd9f77125fbed0f6c"
+  "sha256": "20986e677126a4d8d0b2bb0e15519559dfae711c4b22fc8c07e75ccb66e5d212"
 }
