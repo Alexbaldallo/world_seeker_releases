@@ -1,8 +1,8 @@
 {
-  "versionCode": 139,
-  "versionName": "2.51.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.2/world_seeker_2.51.2.apk",
-  "notas": "Compilación en GitHub con la memoria acotada (se mataba con código 143)",
+  "versionCode": 140,
+  "versionName": "2.51.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.51.3/world_seeker_2.51.3.apk",
+  "notas": "Versión de Play sin permisos que no usa (2.51.3)",
   "obligatoria": false,
-  "sha256": "88e9e65df2f6411f469fee06bab7855448db9bc2dbd5d8f059b90566f9b53be9"
+  "sha256": "145e6d4d15fe2eef7b09584a239ac17e735fa5d5b2d77d1d703404926d64d585"
 }
