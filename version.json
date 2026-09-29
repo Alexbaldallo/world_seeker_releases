@@ -1,8 +1,8 @@
 {
-  "versionCode": 143,
-  "versionName": "2.52.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.52.1/world_seeker_2.52.1.apk",
-  "notas": "Enlace a la política de privacidad dentro de la app (lo exige Play)",
+  "versionCode": 144,
+  "versionName": "2.53.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.53.0/world_seeker_2.53.0.apk",
+  "notas": "Alta nueva: guía, permisos obligatorios y apodo único para siempre",
   "obligatoria": false,
-  "sha256": "5d888287d2def4ab905e720229a52967515da60deba3efd339f62bd4020697d8"
+  "sha256": "67be080d91197b9ec2383dd39eb639bf56555bf91bbb29b55ac1ab7769544396"
 }
