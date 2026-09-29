@@ -1,8 +1,8 @@
 {
-  "versionCode": 146,
-  "versionName": "2.53.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.53.2/world_seeker_2.53.2.apk",
-  "notas": "Avatares en todas partes: botón de nivel del mapa, clasificaciones y alta; nuevo avatar: erizo (20.000 XP)",
+  "versionCode": 147,
+  "versionName": "2.54.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.0/world_seeker_2.54.0.apk",
+  "notas": "Informes de errores y cortes del registro (Crashlytics) y ayuda con el ahorro de batería",
   "obligatoria": false,
-  "sha256": "e9ee539c8e707a0fa049ddafbcdc78a013f5d7331f0f879a27fa9c66432fd16d"
+  "sha256": "66171447b0537d03e0c53cc55e0c7cc5ec2e0edb6c9e0b0cd9f77125fbed0f6c"
 }
