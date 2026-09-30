@@ -1,8 +1,8 @@
 {
-  "versionCode": 149,
-  "versionName": "2.54.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.2/world_seeker_2.54.2.apk",
-  "notas": "La app siempre en vertical (sin giro automático)",
+  "versionCode": 150,
+  "versionName": "2.54.3",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.3/world_seeker_2.54.3.apk",
+  "notas": "La app guarda el canal (Play/directo) y la versión; consola: comando testers y columnas de canal",
   "obligatoria": false,
-  "sha256": "fa6b4f74f56a490cc3b1494cfaccc4c4cb97b0699758d8189b18dac42edf65e0"
+  "sha256": "3ddfe0f62e756ccc31366f3a770a50591a5961b0825ac201c8b5b559a1cb3902"
 }
