@@ -1,8 +1,8 @@
 {
-  "versionCode": 152,
-  "versionName": "2.55.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.55.0/world_seeker_2.55.0.apk",
-  "notas": "Sellos y sorteo mensual, con antitrampas",
+  "versionCode": 153,
+  "versionName": "2.55.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.55.1/world_seeker_2.55.1.apk",
+  "notas": "2.55.1: sellos por sorteo y botón de sugerencias",
   "obligatoria": false,
-  "sha256": "a20e57c46074683e3610c822ba2c869b8fc15614c10f6cf1c977f80ca1af2880"
+  "sha256": "10d87c172553ab21efb370a62c53172263646016aae548c793a57b326d5605ce"
 }
