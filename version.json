@@ -1,8 +1,8 @@
 {
-  "versionCode": 151,
-  "versionName": "2.54.4",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.54.4/world_seeker_2.54.4.apk",
-  "notas": "Drive se pide en el alta (no al entrar) y el GPS no arranca con la app minimizada",
+  "versionCode": 152,
+  "versionName": "2.55.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.55.0/world_seeker_2.55.0.apk",
+  "notas": "Sellos y sorteo mensual, con antitrampas",
   "obligatoria": false,
-  "sha256": "956ed544f7c6e813f45b029984a714920ea1125957a1c06a527af58dcc4c8289"
+  "sha256": "a20e57c46074683e3610c822ba2c869b8fc15614c10f6cf1c977f80ca1af2880"
 }
