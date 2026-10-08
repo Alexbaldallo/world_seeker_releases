@@ -1,8 +1,8 @@
 {
-  "versionCode": 153,
-  "versionName": "2.55.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.55.1/world_seeker_2.55.1.apk",
-  "notas": "2.55.1: sellos por sorteo y botón de sugerencias",
+  "versionCode": 154,
+  "versionName": "2.55.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.55.2/world_seeker_2.55.2.apk",
+  "notas": "2.55.2: compilación con la clave de Web3Forms (sugerencias también por correo)",
   "obligatoria": false,
-  "sha256": "10d87c172553ab21efb370a62c53172263646016aae548c793a57b326d5605ce"
+  "sha256": "de99fda0ae8f4fda4ce64639f3f627c887ef19b935fa8d2e7c6df41e8a7b1362"
 }
