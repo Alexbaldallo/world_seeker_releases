@@ -1,8 +1,8 @@
 {
-  "versionCode": 155,
-  "versionName": "2.56.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.56.0/world_seeker_2.56.0.apk",
-  "notas": "2.56.0: «¿Qué hacer en…?» con agenda por IA bajo demanda y enlaces de afiliado arreglados",
+  "versionCode": 156,
+  "versionName": "2.56.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.56.1/world_seeker_2.56.1.apk",
+  "notas": "2.56.1: arreglo del servidor (Firestore no arrancaba) y GetYourGuide solo con la ciudad",
   "obligatoria": false,
-  "sha256": "4904636ab4059ccb9c1a07da8214342ba5adcd757dd09d2e342c463e7526deb7"
+  "sha256": "adec95c243224566e72f0fce774148e2b92ac48c56ba9fe21fcbe9fb2414219b"
 }
