@@ -1,8 +1,8 @@
 {
-  "versionCode": 156,
-  "versionName": "2.56.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.56.1/world_seeker_2.56.1.apk",
-  "notas": "2.56.1: arreglo del servidor (Firestore no arrancaba) y GetYourGuide solo con la ciudad",
+  "versionCode": 157,
+  "versionName": "2.57.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.57.0/world_seeker_2.57.0.apk",
+  "notas": "2.57.0: «¿Qué hacer en…?» por provincia, eventos y espectáculos aparte, fotos y días en tarjetas",
   "obligatoria": false,
-  "sha256": "adec95c243224566e72f0fce774148e2b92ac48c56ba9fe21fcbe9fb2414219b"
+  "sha256": "2a41746701b37a13d201085d7d4c2b76eed9b32e905f99c30071917f23289775"
 }
