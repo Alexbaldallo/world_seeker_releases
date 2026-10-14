@@ -1,8 +1,8 @@
 {
-  "versionCode": 159,
-  "versionName": "2.59.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.59.0/world_seeker_2.59.0.apk",
-  "notas": "2.59.0: panel de administración en el navegador y eventos propios en la agenda",
-  "obligatoria": false,
-  "sha256": "21eb4270914510d9bba32438f24d495b81bea78af81c6a618811bffabdfc7f3e"
+  "versionCode": 160,
+  "versionName": "2.60.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.60.0/world_seeker_2.60.0.apk",
+  "notas": "2.60.0: actualización obligatoria también en Google Play",
+  "obligatoria": true,
+  "sha256": "bc1692e31133a34255c6385563083f96d275c067097974f21b76d8895e6b5194"
 }
