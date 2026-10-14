@@ -1,8 +1,8 @@
 {
-  "versionCode": 157,
-  "versionName": "2.57.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.57.0/world_seeker_2.57.0.apk",
-  "notas": "2.57.0: «¿Qué hacer en…?» por provincia, eventos y espectáculos aparte, fotos y días en tarjetas",
+  "versionCode": 158,
+  "versionName": "2.58.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.58.0/world_seeker_2.58.0.apk",
+  "notas": "2.58.0: «Ambiente en…»: las 2-3 calles con más vida de cada sitio",
   "obligatoria": false,
-  "sha256": "2a41746701b37a13d201085d7d4c2b76eed9b32e905f99c30071917f23289775"
+  "sha256": "a4003a0aa1afaa9b4ae85fa733dd91bfcff1e2013f14f2cc370b928d65ac9ce7"
 }
