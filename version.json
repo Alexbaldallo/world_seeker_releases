@@ -1,8 +1,8 @@
 {
-  "versionCode": 158,
-  "versionName": "2.58.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.58.0/world_seeker_2.58.0.apk",
-  "notas": "2.58.0: «Ambiente en…»: las 2-3 calles con más vida de cada sitio",
+  "versionCode": 159,
+  "versionName": "2.59.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.59.0/world_seeker_2.59.0.apk",
+  "notas": "2.59.0: panel de administración en el navegador y eventos propios en la agenda",
   "obligatoria": false,
-  "sha256": "a4003a0aa1afaa9b4ae85fa733dd91bfcff1e2013f14f2cc370b928d65ac9ce7"
+  "sha256": "21eb4270914510d9bba32438f24d495b81bea78af81c6a618811bffabdfc7f3e"
 }
