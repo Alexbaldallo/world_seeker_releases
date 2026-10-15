@@ -1,8 +1,8 @@
 {
-  "versionCode": 162,
-  "versionName": "2.62.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.0/world_seeker_2.62.0.apk",
-  "notas": "2.62.0: «De noche» también en los pueblos, Overpass con respaldo y Nominatim más fino",
+  "versionCode": 163,
+  "versionName": "2.62.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.1/world_seeker_2.62.1.apk",
+  "notas": "2.62.1: los enlaces de vuelos y entradas ya no acaban en \"traffic_source is not valid\"",
   "obligatoria": false,
-  "sha256": "cc1b9220f08a4eb7a211c801c1b73caa7e1b799531dbfca23a86b97e9549a7bd"
+  "sha256": "52d1d5399a9e901dc1ed0cda8b80593f8c9ad0bc167b016bf806ae49c261ab92"
 }
