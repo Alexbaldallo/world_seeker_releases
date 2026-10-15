@@ -1,8 +1,8 @@
 {
-  "versionCode": 160,
-  "versionName": "2.60.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.60.0/world_seeker_2.60.0.apk",
-  "notas": "2.60.0: actualización obligatoria también en Google Play",
-  "obligatoria": true,
-  "sha256": "bc1692e31133a34255c6385563083f96d275c067097974f21b76d8895e6b5194"
+  "versionCode": 161,
+  "versionName": "2.61.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.61.0/world_seeker_2.61.0.apk",
+  "notas": "2.61.0: «¿Qué hacer en…?» más ordenado, ferias de los pueblos, ambiente contrastado con noche y optimizaciones",
+  "obligatoria": false,
+  "sha256": "603e9d1001807c9f0c1c9c258eb8fb6ce731584fd9419c000bf7c259d8bc9bda"
 }
