@@ -1,8 +1,8 @@
 {
-  "versionCode": 163,
-  "versionName": "2.62.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.1/world_seeker_2.62.1.apk",
-  "notas": "2.62.1: los enlaces de vuelos y entradas ya no acaban en \"traffic_source is not valid\"",
+  "versionCode": 164,
+  "versionName": "2.62.2",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.2/world_seeker_2.62.2.apk",
+  "notas": "Relanzar la compilación de la 2.62.2 (la anterior falló en GitHub)",
   "obligatoria": false,
-  "sha256": "52d1d5399a9e901dc1ed0cda8b80593f8c9ad0bc167b016bf806ae49c261ab92"
+  "sha256": "ca0351f01df44e6c8d3306b65a1708fc061d0af7520e377c4f3ad6323649bd3a"
 }
