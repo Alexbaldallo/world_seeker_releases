@@ -1,8 +1,8 @@
 {
-  "versionCode": 161,
-  "versionName": "2.61.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.61.0/world_seeker_2.61.0.apk",
-  "notas": "2.61.0: «¿Qué hacer en…?» más ordenado, ferias de los pueblos, ambiente contrastado con noche y optimizaciones",
+  "versionCode": 162,
+  "versionName": "2.62.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.0/world_seeker_2.62.0.apk",
+  "notas": "2.62.0: «De noche» también en los pueblos, Overpass con respaldo y Nominatim más fino",
   "obligatoria": false,
-  "sha256": "603e9d1001807c9f0c1c9c258eb8fb6ce731584fd9419c000bf7c259d8bc9bda"
+  "sha256": "cc1b9220f08a4eb7a211c801c1b73caa7e1b799531dbfca23a86b97e9549a7bd"
 }
