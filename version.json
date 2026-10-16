@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "2.62.2",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.62.2/world_seeker_2.62.2.apk",
-  "notas": "Relanzar la compilación de la 2.62.2 (la anterior falló en GitHub)",
+  "versionCode": 165,
+  "versionName": "2.63.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.63.0/world_seeker_2.63.0.apk",
+  "notas": "2.63.0: fuera «Cerca, en otras provincias» y agenda más barata y más completa",
   "obligatoria": false,
-  "sha256": "ca0351f01df44e6c8d3306b65a1708fc061d0af7520e377c4f3ad6323649bd3a"
+  "sha256": "1ae8bd151fd50646c4e64de2133b530f0bb6df2405265af04ecbaa7ecc7065a6"
 }
