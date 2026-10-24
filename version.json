@@ -1,8 +1,8 @@
 {
-  "versionCode": 166,
-  "versionName": "2.63.1",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.63.1/world_seeker_2.63.1.apk",
-  "notas": "2.63.1: 20 sitios nuevos al día y solo se prepara el sitio donde estás",
+  "versionCode": 167,
+  "versionName": "2.64.0",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.64.0/world_seeker_2.64.0.apk",
+  "notas": "2.64.0: cuenta de pruebas para recorrer el mapa sin moverse",
   "obligatoria": false,
-  "sha256": "c9066a24c80c37cca7785ad212ac5f2d578bfeb56a5b1af4176dc93ba0f0001c"
+  "sha256": "b649675c14a9168d5435d1410d9c72470e31b0d67e224ffab6144746de6edf7d"
 }
