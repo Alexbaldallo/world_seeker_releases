@@ -1,8 +1,8 @@
 {
-  "versionCode": 167,
-  "versionName": "2.64.0",
-  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.64.0/world_seeker_2.64.0.apk",
-  "notas": "2.64.0: cuenta de pruebas para recorrer el mapa sin moverse",
+  "versionCode": 168,
+  "versionName": "2.64.1",
+  "apkUrl": "https://github.com/Alexbaldallo/world_seeker_releases/releases/download/v2.64.1/world_seeker_2.64.1.apk",
+  "notas": "2.64.1: el apodo ya no se vuelve a pedir en cada entrada",
   "obligatoria": false,
-  "sha256": "b649675c14a9168d5435d1410d9c72470e31b0d67e224ffab6144746de6edf7d"
+  "sha256": "128e2495de662d25b8ff82dec0d7449c369cfb1e211536a2f9c3dc5d539c7cec"
 }
